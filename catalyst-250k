@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+	<fittings>
+		<fitting name="mr. sponge">
+			<description value=""/>
+			<shipType value="Catalyst"/>
+			<hardware slot="rig slot 2" type="Small Anti-Thermal Screen Reinforcer I"/>
+			<hardware slot="rig slot 1" type="Small Processor Overclocking Unit I"/>
+			<hardware slot="rig slot 0" type="Small Anti-EM Screen Reinforcer I"/>
+			<hardware slot="hi slot 7" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 6" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 5" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 4" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 3" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 2" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 1" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 0" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="med slot 1" type="Adaptive Invulnerability Field I"/>
+			<hardware slot="med slot 0" type="Medium Shield Extender I"/>
+			<hardware slot="low slot 2" type="Magnetic Field Stabilizer I"/>
+			<hardware slot="low slot 1" type="Damage Control I"/>
+			<hardware slot="low slot 0" type="Magnetic Field Stabilizer I"/>
+		</fitting>
+		<fitting name="mr. sponge fit">
+			<description value=""/>
+			<shipType value="Catalyst"/>
+			<hardware slot="med slot 1" type="Adaptive Invulnerability Field I"/>
+			<hardware slot="low slot 1" type="Damage Control I"/>
+			<hardware slot="med slot 0" type="Medium Shield Extender I"/>
+			<hardware slot="hi slot 0" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 1" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 2" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 3" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 4" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 5" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 6" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 7" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="low slot 0" type="Magnetic Field Stabilizer I"/>
+			<hardware slot="low slot 2" type="Magnetic Field Stabilizer I"/>
+			<hardware qty="40" slot="cargo" type="Caldari Navy Antimatter Charge S"/>
+			<hardware slot="rig slot 1" type="Small Processor Overclocking Unit I"/>
+			<hardware slot="rig slot 0" type="Small Anti-EM Screen Reinforcer I"/>
+			<hardware slot="rig slot 2" type="Small Anti-Thermal Screen Reinforcer I"/>
+		</fitting>
+	</fittings>
