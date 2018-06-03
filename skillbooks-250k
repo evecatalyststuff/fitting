@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+	<fittings>
+		<fitting name="Skillbook Pack 1.12">
+			<description value=""/>
+			<shipType value="Caldari Shuttle"/>
+			<hardware qty="1" slot="cargo" type="Small Hybrid Turret"/>
+			<hardware qty="1" slot="cargo" type="Gallente Frigate"/>
+			<hardware qty="1" slot="cargo" type="Gallente Destroyer"/>
+		</fitting>
+	</fittings>
