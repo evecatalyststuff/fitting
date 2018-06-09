@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+	<fittings>
+		<fitting name="**rookie sniper">
+			<description value=""/>
+			<shipType value="Thrasher"/>
+			<hardware slot="hi slot 0" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 1" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 2" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 3" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 4" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 5" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 6" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="med slot 2" type="Adaptive Invulnerability Field I"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware slot="med slot 0" type="Medium Shield Extender I"/>
+			<hardware slot="med slot 1" type="Medium Shield Extender I"/>
+			<hardware slot="low slot 1" type="Micro Auxiliary Power Core I"/>
+			<hardware qty="847" slot="cargo" type="Republic Fleet Fusion S"/>
+			<hardware slot="rig slot 0" type="Small Processor Overclocking Unit I"/>
+			<hardware slot="rig slot 1" type="Small Anti-EM Screen Reinforcer I"/>
+			<hardware slot="rig slot 2" type="Small Anti-Thermal Screen Reinforcer I"/>
+		</fitting>
+		<fitting name="*rookie sniper">
+			<description value=""/>
+			<shipType value="Thrasher"/>
+			<hardware slot="med slot 1" type="Small Shield Extender I"/>
+			<hardware slot="hi slot 0" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 1" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 2" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 3" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 4" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 5" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 6" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="low slot 1" type="Gyrostabilizer I"/>
+			<hardware slot="med slot 2" type="Adaptive Invulnerability Field I"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware slot="med slot 0" type="Medium Shield Extender I"/>
+			<hardware qty="567" slot="cargo" type="Republic Fleet Fusion S"/>
+			<hardware slot="rig slot 0" type="Small Processor Overclocking Unit I"/>
+		</fitting>
+		<fitting name="hot babe">
+			<description value=""/>
+			<shipType value="Thrasher"/>
+			<hardware slot="hi slot 0" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 1" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 2" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 3" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 4" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 5" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 6" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="med slot 2" type="Adaptive Invulnerability Field I"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware slot="med slot 0" type="Medium Shield Extender I"/>
+			<hardware slot="med slot 1" type="Medium Shield Extender I"/>
+			<hardware slot="low slot 1" type="Micro Auxiliary Power Core I"/>
+			<hardware qty="14" slot="cargo" type="Republic Fleet Phased Plasma S"/>
+			<hardware slot="rig slot 0" type="Small Processor Overclocking Unit I"/>
+			<hardware slot="rig slot 1" type="Small Anti-EM Screen Reinforcer I"/>
+			<hardware slot="rig slot 2" type="Small Anti-Thermal Screen Reinforcer I"/>
+		</fitting>
+		<fitting name="rookie sniper">
+			<description value=""/>
+			<shipType value="Thrasher"/>
+			<hardware slot="hi slot 0" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 1" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 2" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 3" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 4" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 5" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 6" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="med slot 2" type="Adaptive Invulnerability Field I"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware slot="med slot 0" type="Medium Shield Extender I"/>
+			<hardware qty="287" slot="cargo" type="Republic Fleet Fusion S"/>
+		</fitting>
+		<fitting name="train spotting">
+			<description value=""/>
+			<shipType value="Thrasher"/>
+			<hardware slot="hi slot 0" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 1" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 2" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 3" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 4" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 5" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="hi slot 6" type="250mm Light Artillery Cannon I"/>
+			<hardware slot="med slot 2" type="Adaptive Invulnerability Field I"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware slot="med slot 0" type="Medium Shield Extender I"/>
+			<hardware slot="med slot 1" type="Medium Shield Extender I"/>
+			<hardware slot="low slot 1" type="Micro Auxiliary Power Core I"/>
+			<hardware qty="14" slot="cargo" type="Republic Fleet Fusion S"/>
+			<hardware slot="rig slot 0" type="Small Processor Overclocking Unit I"/>
+			<hardware slot="rig slot 1" type="Small Anti-EM Screen Reinforcer I"/>
+			<hardware slot="rig slot 2" type="Small Anti-Thermal Screen Reinforcer I"/>
+		</fitting>
+    		<fitting name="**Simulated Thrasher">
+			<description value=""/>
+			<shipType value="Thrasher"/>
+			<hardware slot="med slot 0" type="Small Shield Extender I"/>
+			<hardware slot="med slot 1" type="Small Shield Extender I"/>
+			<hardware slot="hi slot 0" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 1" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 2" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 3" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 4" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 5" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 6" type="280mm Howitzer Artillery I"/>
+			<hardware slot="low slot 1" type="Damage Control I"/>
+			<hardware slot="low slot 0" type="Counterbalanced Compact Gyrostabilizer"/>
+			<hardware slot="med slot 2" type="Limited Adaptive Invulnerability Field I"/>
+			<hardware qty="140" slot="cargo" type="Republic Fleet Fusion S"/>
+		</fitting>
+		<fitting name="**Simulated Thrasher">
+			<description value=""/>
+			<shipType value="Thrasher"/>
+			<hardware slot="med slot 0" type="Small Shield Extender I"/>
+			<hardware slot="med slot 1" type="Small Shield Extender I"/>
+			<hardware slot="hi slot 0" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 1" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 2" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 3" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 4" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 5" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 6" type="280mm Howitzer Artillery I"/>
+			<hardware slot="low slot 1" type="Damage Control I"/>
+			<hardware slot="low slot 0" type="Counterbalanced Compact Gyrostabilizer"/>
+			<hardware slot="med slot 2" type="Limited Adaptive Invulnerability Field I"/>
+			<hardware qty="140" slot="cargo" type="Republic Fleet Fusion S"/>
+			<hardware slot="rig slot 0" type="Small Processor Overclocking Unit I"/>
+		</fitting>
+		<fitting name="*Simulated Thrasher">
+			<description value=""/>
+			<shipType value="Thrasher"/>
+			<hardware slot="hi slot 0" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 1" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 2" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 3" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 4" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 5" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 6" type="280mm Howitzer Artillery I"/>
+		</fitting>
+		<fitting name="*pod sniper">
+			<description value=""/>
+			<shipType value="Thrasher"/>
+			<hardware slot="hi slot 0" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 1" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 2" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 3" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 4" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 5" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 6" type="280mm Howitzer Artillery I"/>
+			<hardware qty="7" slot="cargo" type="Republic Fleet Fusion S"/>
+		</fitting>
+		<fitting name="pod sniper">
+			<description value=""/>
+			<shipType value="Thrasher"/>
+			<hardware slot="hi slot 0" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 1" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 2" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 3" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 4" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 5" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 6" type="280mm Howitzer Artillery I"/>
+		</fitting>
+	</fittings>
