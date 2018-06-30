@@ -1,0 +1,172 @@
+<?xml version="1.0" ?>
+	<fittings>
+		<fitting name="CNN fake news crew">
+			<description value=""/>
+			<shipType value="Magnate"/>
+			<hardware slot="low slot 0" type="Expanded Cargohold II"/>
+			<hardware slot="low slot 1" type="Expanded Cargohold II"/>
+			<hardware slot="low slot 2" type="Inertial Stabilizers II"/>
+			<hardware slot="low slot 3" type="Inertial Stabilizers II"/>
+			<hardware slot="med slot 1" type="Small Azeotropic Restrained Shield Extender"/>
+			<hardware slot="med slot 0" type="Medium Azeotropic Restrained Shield Extender"/>
+			<hardware slot="med slot 2" type="Limited Adaptive Invulnerability Field I"/>
+			<hardware slot="rig slot 1" type="Small Cargohold Optimization I"/>
+			<hardware slot="rig slot 2" type="Small Cargohold Optimization I"/>
+			<hardware slot="rig slot 0" type="Small Low Friction Nozzle Joints I"/>
+		</fitting>
+		<fitting name="Cormorant Blaster">
+			<description value=""/>
+			<shipType value="Cormorant"/>
+			<hardware slot="rig slot 2" type="Small Anti-Thermal Screen Reinforcer I"/>
+			<hardware slot="rig slot 1" type="Small Anti-EM Screen Reinforcer I"/>
+			<hardware slot="rig slot 0" type="Small Anti-EM Screen Reinforcer I"/>
+			<hardware slot="hi slot 6" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 5" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 4" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 3" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 2" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 1" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 0" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="med slot 2" type="Small Azeotropic Restrained Shield Extender"/>
+			<hardware slot="med slot 1" type="Medium Shield Extender I"/>
+			<hardware slot="med slot 0" type="Limited Adaptive Invulnerability Field I"/>
+			<hardware slot="low slot 1" type="Damage Control I"/>
+			<hardware slot="low slot 0" type="Magnetic Field Stabilizer I"/>
+			<hardware qty="840" slot="cargo" type="Federation Navy Antimatter Charge S"/>
+		</fitting>
+		<fitting name="Cormorant Blaster MF">
+			<description value=""/>
+			<shipType value="Cormorant"/>
+			<hardware slot="low slot 1" type="Damage Control I"/>
+			<hardware slot="med slot 1" type="Medium Shield Extender I"/>
+			<hardware slot="hi slot 0" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 1" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 2" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 3" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 4" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 5" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 6" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="med slot 2" type="Small Azeotropic Restrained Shield Extender"/>
+			<hardware slot="med slot 0" type="Limited Adaptive Invulnerability Field I"/>
+			<hardware slot="low slot 0" type="Magnetic Field Stabilizer I"/>
+			<hardware slot="rig slot 0" type="Small Anti-EM Screen Reinforcer I"/>
+			<hardware slot="rig slot 2" type="Small Anti-Kinetic Screen Reinforcer I"/>
+			<hardware slot="rig slot 1" type="Small Anti-Thermal Screen Reinforcer I"/>
+		</fitting>
+		<fitting name="Cormorant Blaster cheaper">
+			<description value=""/>
+			<shipType value="Cormorant"/>
+			<hardware slot="low slot 1" type="Damage Control I"/>
+			<hardware slot="med slot 1" type="Medium Shield Extender I"/>
+			<hardware slot="hi slot 0" type="Regulated Light Ion Phase Cannon I"/>
+			<hardware slot="hi slot 1" type="Regulated Light Ion Phase Cannon I"/>
+			<hardware slot="hi slot 2" type="Regulated Light Ion Phase Cannon I"/>
+			<hardware slot="hi slot 3" type="Regulated Light Ion Phase Cannon I"/>
+			<hardware slot="hi slot 4" type="Regulated Light Ion Phase Cannon I"/>
+			<hardware slot="hi slot 5" type="Regulated Light Ion Phase Cannon I"/>
+			<hardware slot="hi slot 6" type="Regulated Light Ion Phase Cannon I"/>
+			<hardware slot="med slot 2" type="Small Azeotropic Restrained Shield Extender"/>
+			<hardware slot="med slot 0" type="Limited Adaptive Invulnerability Field I"/>
+			<hardware slot="low slot 0" type="Magnetic Field Stabilizer I"/>
+			<hardware slot="rig slot 0" type="Small Anti-EM Screen Reinforcer I"/>
+			<hardware slot="rig slot 2" type="Small Anti-Kinetic Screen Reinforcer I"/>
+			<hardware slot="rig slot 1" type="Small Anti-Thermal Screen Reinforcer I"/>
+		</fitting>
+		<fitting name="dirt Catalyst">
+			<description value=""/>
+			<shipType value="Catalyst"/>
+			<hardware slot="med slot 1" type="Adaptive Invulnerability Field I"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware slot="med slot 0" type="Medium Shield Extender I"/>
+			<hardware slot="hi slot 0" type="Regulated Light Ion Phase Cannon I"/>
+			<hardware slot="hi slot 1" type="Regulated Light Ion Phase Cannon I"/>
+			<hardware slot="hi slot 2" type="Regulated Light Ion Phase Cannon I"/>
+			<hardware slot="hi slot 3" type="Regulated Light Ion Phase Cannon I"/>
+			<hardware slot="hi slot 4" type="Regulated Light Ion Phase Cannon I"/>
+			<hardware slot="hi slot 5" type="Regulated Light Ion Phase Cannon I"/>
+			<hardware slot="hi slot 6" type="Regulated Light Ion Phase Cannon I"/>
+			<hardware slot="hi slot 7" type="Regulated Light Ion Phase Cannon I"/>
+			<hardware slot="low slot 1" type="Magnetic Field Stabilizer I"/>
+			<hardware slot="low slot 2" type="Magnetic Field Stabilizer I"/>
+			<hardware slot="rig slot 1" type="Small Anti-EM Screen Reinforcer I"/>
+			<hardware slot="rig slot 2" type="Small Anti-Kinetic Screen Reinforcer I"/>
+			<hardware slot="rig slot 0" type="Small Anti-Thermal Screen Reinforcer I"/>
+		</fitting>
+		<fitting name="dirt Cheap MF">
+			<description value=""/>
+			<shipType value="Catalyst"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware slot="hi slot 0" type="Limited Light Neutron Blaster I"/>
+			<hardware slot="hi slot 1" type="Limited Light Neutron Blaster I"/>
+			<hardware slot="hi slot 2" type="Limited Light Neutron Blaster I"/>
+			<hardware slot="hi slot 3" type="Limited Light Neutron Blaster I"/>
+			<hardware slot="hi slot 4" type="Limited Light Neutron Blaster I"/>
+			<hardware slot="hi slot 5" type="Limited Light Neutron Blaster I"/>
+			<hardware slot="hi slot 6" type="Limited Light Neutron Blaster I"/>
+			<hardware slot="hi slot 7" type="Limited Light Neutron Blaster I"/>
+			<hardware slot="med slot 0" type="Small Azeotropic Restrained Shield Extender"/>
+			<hardware slot="med slot 1" type="Small Azeotropic Restrained Shield Extender"/>
+			<hardware slot="low slot 2" type="Magnetic Field Stabilizer I"/>
+			<hardware slot="low slot 1" type="200mm Rolled Tungsten Compact Plates"/>
+			<hardware slot="rig slot 0" type="Small Anti-EM Screen Reinforcer I"/>
+			<hardware slot="rig slot 2" type="Small Anti-EM Screen Reinforcer I"/>
+			<hardware slot="rig slot 1" type="Small Anti-Thermal Screen Reinforcer I"/>
+		</fitting>
+		<fitting name="dirt Cheap gank Catalyst">
+			<description value=""/>
+			<shipType value="Catalyst"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware slot="hi slot 0" type="Limited Light Neutron Blaster I"/>
+			<hardware slot="hi slot 1" type="Limited Light Neutron Blaster I"/>
+			<hardware slot="hi slot 2" type="Limited Light Neutron Blaster I"/>
+			<hardware slot="hi slot 3" type="Limited Light Neutron Blaster I"/>
+			<hardware slot="hi slot 4" type="Limited Light Neutron Blaster I"/>
+			<hardware slot="hi slot 5" type="Limited Light Neutron Blaster I"/>
+			<hardware slot="hi slot 6" type="Limited Light Neutron Blaster I"/>
+			<hardware slot="hi slot 7" type="Limited Light Neutron Blaster I"/>
+			<hardware slot="med slot 0" type="Small Azeotropic Restrained Shield Extender"/>
+			<hardware slot="med slot 1" type="Small Azeotropic Restrained Shield Extender"/>
+			<hardware slot="low slot 2" type="Magnetic Field Stabilizer I"/>
+			<hardware slot="low slot 1" type="200mm Rolled Tungsten Compact Plates"/>
+			<hardware qty="640" slot="cargo" type="Federation Navy Antimatter Charge S"/>
+			<hardware slot="rig slot 0" type="Small Anti-EM Screen Reinforcer I"/>
+			<hardware slot="rig slot 2" type="Small Anti-EM Screen Reinforcer I"/>
+			<hardware slot="rig slot 1" type="Small Anti-Thermal Screen Reinforcer I"/>
+		</fitting>
+		<fitting name="dirt Cheap pod gank Catalyst">
+			<description value=""/>
+			<shipType value="Catalyst"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware slot="med slot 1" type="Medium Shield Extender I"/>
+			<hardware slot="med slot 0" type="F-90 Compact Sensor Booster"/>
+			<hardware slot="hi slot 0" type="Limited Light Ion Blaster I"/>
+			<hardware slot="hi slot 1" type="Limited Light Ion Blaster I"/>
+			<hardware slot="hi slot 2" type="Limited Light Ion Blaster I"/>
+			<hardware slot="hi slot 3" type="Limited Light Ion Blaster I"/>
+			<hardware slot="hi slot 4" type="Limited Light Ion Blaster I"/>
+			<hardware slot="hi slot 5" type="Limited Light Ion Blaster I"/>
+			<hardware slot="hi slot 6" type="Limited Light Ion Blaster I"/>
+			<hardware slot="hi slot 7" type="Limited Light Ion Blaster I"/>
+			<hardware slot="low slot 2" type="Mark I Compact Power Diagnostic System"/>
+			<hardware slot="low slot 1" type="Magnetic Field Stabilizer I"/>
+			<hardware qty="1" slot="cargo" type="Scan Resolution Script"/>
+			<hardware slot="rig slot 1" type="Small Anti-EM Screen Reinforcer I"/>
+			<hardware slot="rig slot 2" type="Small Anti-Kinetic Screen Reinforcer I"/>
+			<hardware slot="rig slot 0" type="Small Anti-Thermal Screen Reinforcer I"/>
+		</fitting>
+		<fitting name="hi sec">
+			<description value=""/>
+			<shipType value="Magnate"/>
+			<hardware slot="med slot 1" type="Small Shield Extender II"/>
+			<hardware slot="med slot 2" type="Small Shield Extender II"/>
+			<hardware slot="low slot 2" type="Inertial Stabilizers II"/>
+			<hardware slot="low slot 3" type="Inertial Stabilizers II"/>
+			<hardware slot="low slot 1" type="Nanofiber Internal Structure II"/>
+			<hardware slot="med slot 0" type="Medium Shield Extender II"/>
+			<hardware slot="low slot 0" type="Type-D Restrained Inertial Stabilizers"/>
+			<hardware qty="8" slot="cargo" type="Core Scanner Probe I"/>
+			<hardware slot="rig slot 2" type="Small Hyperspatial Velocity Optimizer I"/>
+			<hardware slot="rig slot 0" type="Small Polycarbon Engine Housing I"/>
+			<hardware slot="rig slot 1" type="Small Anti-EM Screen Reinforcer I"/>
+		</fitting>
+	</fittings>

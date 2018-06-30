@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+	<fittings>
+		<fitting name="blasters Atron">
+			<description value=""/>
+			<shipType value="Atron"/>
+			<hardware slot="low slot 2" type="Inertial Stabilizers II"/>
+			<hardware slot="med slot 1" type="Medium Shield Extender II"/>
+			<hardware slot="low slot 0" type="Type-D Restrained Inertial Stabilizers"/>
+			<hardware slot="low slot 1" type="Type-D Restrained Inertial Stabilizers"/>
+			<hardware slot="med slot 2" type="Limited Adaptive Invulnerability Field I"/>
+			<hardware slot="rig slot 0" type="Small Low Friction Nozzle Joints I"/>
+			<hardware slot="rig slot 1" type="Small Hyperspatial Velocity Optimizer I"/>
+			<hardware slot="rig slot 2" type="Small Hyperspatial Velocity Optimizer I"/>
+			<hardware slot="med slot 0" type="5MN Quad LiF Restrained Microwarpdrive"/>
+		</fitting>
+		<fitting name="shield tackle">
+			<description value=""/>
+			<shipType value="Atron"/>
+			<hardware slot="med slot 1" type="Medium Shield Extender I"/>
+			<hardware slot="med slot 2" type="Medium Shield Extender I"/>
+			<hardware slot="low slot 0" type="Type-D Restrained Inertial Stabilizers"/>
+			<hardware slot="low slot 1" type="Type-D Restrained Inertial Stabilizers"/>
+			<hardware slot="low slot 2" type="Type-D Restrained Inertial Stabilizers"/>
+			<hardware slot="med slot 0" type="Compulsive Scoped Multispectral ECM"/>
+			<hardware slot="rig slot 0" type="Small Low Friction Nozzle Joints I"/>
+			<hardware slot="rig slot 1" type="Small Hyperspatial Velocity Optimizer I"/>
+			<hardware slot="rig slot 2" type="Small Hyperspatial Velocity Optimizer I"/>
+		</fitting>
+	</fittings>

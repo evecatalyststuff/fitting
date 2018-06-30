@@ -1,0 +1,1302 @@
+<?xml version="1.0" ?>
+	<fittings>
+		<fitting name="****Alpha Clone - Starter Tormentor w/Dr">
+			<description value=""/>
+			<shipType value="Tormentor"/>
+			<hardware qty="3" slot="cargo" type="Multifrequency S"/>
+			<hardware slot="med slot 0" type="1MN Afterburner I"/>
+			<hardware slot="low slot 0" type="Small Armor Repairer I"/>
+			<hardware slot="med slot 1" type="Stasis Webifier I"/>
+			<hardware slot="low slot 3" type="Adaptive Nano Plating I"/>
+			<hardware slot="low slot 2" type="Damage Control I"/>
+			<hardware qty="2" slot="drone bay" type="Acolyte I"/>
+			<hardware slot="med slot 2" type="Small Capacitor Booster I"/>
+			<hardware slot="low slot 1" type="Extruded Compact Heat Sink"/>
+			<hardware slot="hi slot 0" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 1" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 2" type="Small Focused Modal Pulse Laser I"/>
+			<hardware qty="1" slot="cargo" type="Cap Booster 200"/>
+		</fitting>
+		<fitting name="***Alpha Clone - Starter Tormentor w/Dro">
+			<description value=""/>
+			<shipType value="Tormentor"/>
+			<hardware qty="3" slot="cargo" type="Multifrequency S"/>
+			<hardware slot="med slot 0" type="1MN Afterburner I"/>
+			<hardware slot="low slot 0" type="Small Armor Repairer I"/>
+			<hardware slot="med slot 1" type="Stasis Webifier I"/>
+			<hardware slot="low slot 3" type="Adaptive Nano Plating I"/>
+			<hardware slot="low slot 2" type="Damage Control I"/>
+			<hardware qty="2" slot="drone bay" type="Acolyte I"/>
+			<hardware slot="low slot 1" type="Heat Sink I"/>
+			<hardware slot="med slot 2" type="Small Capacitor Booster I"/>
+			<hardware slot="hi slot 0" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 1" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 2" type="Small Focused Modal Pulse Laser I"/>
+			<hardware qty="1" slot="cargo" type="Cap Booster 200"/>
+		</fitting>
+		<fitting name="***PvE Omen">
+			<description value=""/>
+			<shipType value="Omen"/>
+			<hardware slot="low slot 0" type="Damage Control II"/>
+			<hardware slot="low slot 1" type="Heat Sink II"/>
+			<hardware slot="low slot 3" type="Heat Sink II"/>
+			<hardware slot="low slot 2" type="Medium 'Accommodation' Vestment Reconstructer I"/>
+			<hardware slot="med slot 1" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 2" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="hi slot 0" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 1" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 2" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 3" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 4" type="Focused Modal Medium Laser I"/>
+			<hardware slot="low slot 4" type="Limited Energized Adaptive Nano Membrane I"/>
+			<hardware slot="low slot 5" type="Limited Energized Adaptive Nano Membrane I"/>
+			<hardware qty="5" slot="cargo" type="Imperial Navy Multifrequency M"/>
+			<hardware qty="5" slot="cargo" type="Imperial Navy Standard M"/>
+			<hardware slot="rig slot 1" type="Medium Energy Collision Accelerator I"/>
+			<hardware slot="rig slot 2" type="Medium Energy Collision Accelerator I"/>
+			<hardware slot="med slot 0" type="10MN Y-S8 Compact Afterburner"/>
+		</fitting>
+		<fitting name="**Alpha Clone - Starter Tormentor w/Dron">
+			<description value=""/>
+			<shipType value="Tormentor"/>
+			<hardware qty="3" slot="cargo" type="Multifrequency S"/>
+			<hardware slot="med slot 0" type="1MN Afterburner I"/>
+			<hardware slot="low slot 0" type="Small Armor Repairer I"/>
+			<hardware slot="med slot 1" type="Stasis Webifier I"/>
+			<hardware slot="low slot 3" type="Adaptive Nano Plating I"/>
+			<hardware slot="low slot 2" type="Damage Control I"/>
+			<hardware qty="2" slot="drone bay" type="Acolyte I"/>
+			<hardware slot="low slot 1" type="Heat Sink I"/>
+			<hardware qty="2" slot="drone bay" type="Hobgoblin I"/>
+			<hardware slot="med slot 2" type="Small Capacitor Booster I"/>
+			<hardware slot="hi slot 0" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 1" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 2" type="Small Focused Modal Pulse Laser I"/>
+			<hardware qty="1" slot="cargo" type="Cap Booster 200"/>
+		</fitting>
+		<fitting name="**PvE Omen">
+			<description value=""/>
+			<shipType value="Omen"/>
+			<hardware slot="low slot 0" type="Damage Control II"/>
+			<hardware slot="low slot 2" type="Medium 'Accommodation' Vestment Reconstructer I"/>
+			<hardware slot="low slot 3" type="Extruded Compact Heat Sink"/>
+			<hardware slot="med slot 1" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 2" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="hi slot 0" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 1" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 2" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 3" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 4" type="Focused Modal Medium Laser I"/>
+			<hardware slot="low slot 1" type="Type-D Restrained Capacitor Power Relay"/>
+			<hardware slot="low slot 4" type="Energized Adaptive Nano Membrane I"/>
+			<hardware slot="low slot 5" type="Energized Adaptive Nano Membrane I"/>
+			<hardware qty="5" slot="cargo" type="Imperial Navy Multifrequency M"/>
+			<hardware slot="rig slot 2" type="Medium Capacitor Control Circuit I"/>
+			<hardware slot="rig slot 1" type="Medium Energy Collision Accelerator I"/>
+			<hardware slot="med slot 0" type="10MN Y-S8 Compact Afterburner"/>
+		</fitting>
+		<fitting name="**PvE Omen">
+			<description value=""/>
+			<shipType value="Omen"/>
+			<hardware slot="low slot 0" type="Damage Control II"/>
+			<hardware slot="low slot 2" type="Medium 'Accommodation' Vestment Reconstructer I"/>
+			<hardware slot="low slot 3" type="Extruded Compact Heat Sink"/>
+			<hardware slot="med slot 1" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 2" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="hi slot 0" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 1" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 2" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 3" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 4" type="Focused Modal Medium Laser I"/>
+			<hardware slot="low slot 1" type="Type-D Restrained Capacitor Power Relay"/>
+			<hardware slot="low slot 4" type="Energized Adaptive Nano Membrane I"/>
+			<hardware slot="low slot 5" type="Energized Adaptive Nano Membrane I"/>
+			<hardware slot="rig slot 2" type="Medium Capacitor Control Circuit I"/>
+			<hardware slot="rig slot 1" type="Medium Energy Collision Accelerator I"/>
+			<hardware slot="med slot 0" type="10MN Y-S8 Compact Afterburner"/>
+		</fitting>
+		<fitting name="**pvpD">
+			<description value=""/>
+			<shipType value="Tormentor"/>
+			<hardware qty="3" slot="cargo" type="Multifrequency S"/>
+			<hardware slot="med slot 0" type="1MN Afterburner I"/>
+			<hardware slot="med slot 1" type="Warp Scrambler I"/>
+			<hardware slot="hi slot 0" type="Dual Light Pulse Laser I"/>
+			<hardware slot="hi slot 1" type="Dual Light Pulse Laser I"/>
+			<hardware slot="hi slot 2" type="Dual Light Pulse Laser I"/>
+			<hardware slot="low slot 0" type="Small Armor Repairer I"/>
+			<hardware slot="med slot 2" type="Stasis Webifier I"/>
+			<hardware slot="low slot 3" type="Adaptive Nano Plating I"/>
+			<hardware slot="low slot 2" type="Damage Control I"/>
+			<hardware qty="2" slot="drone bay" type="Acolyte I"/>
+			<hardware slot="low slot 1" type="Extruded Compact Heat Sink"/>
+			<hardware qty="1" slot="cargo" type="Cap Booster 200"/>
+		</fitting>
+		<fitting name="*Alpha Clone - Starter Executioner">
+			<description value=""/>
+			<shipType value="Executioner"/>
+			<hardware qty="6" slot="cargo" type="Multifrequency S"/>
+			<hardware slot="med slot 0" type="1MN Afterburner I"/>
+			<hardware slot="low slot 1" type="Small Armor Repairer I"/>
+			<hardware slot="med slot 1" type="Stasis Webifier I"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware slot="low slot 2" type="Heat Sink I"/>
+			<hardware slot="med slot 2" type="Small Capacitor Booster I"/>
+			<hardware slot="hi slot 0" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 1" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 2" type="Small Focused Modal Pulse Laser I"/>
+			<hardware qty="1" slot="cargo" type="Cap Booster 200"/>
+		</fitting>
+		<fitting name="*Alpha Clone - Starter Punisher">
+			<description value=""/>
+			<shipType value="Punisher"/>
+			<hardware qty="8" slot="cargo" type="Multifrequency S"/>
+			<hardware slot="med slot 0" type="1MN Afterburner I"/>
+			<hardware slot="hi slot 0" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 1" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 2" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 3" type="Dual Light Beam Laser I"/>
+			<hardware slot="low slot 4" type="Small Armor Repairer I"/>
+			<hardware slot="med slot 1" type="Stasis Webifier I"/>
+			<hardware slot="low slot 1" type="Adaptive Nano Plating I"/>
+			<hardware slot="low slot 2" type="Damage Control I"/>
+			<hardware slot="low slot 0" type="400mm Steel Plates I"/>
+			<hardware slot="low slot 3" type="Micro Auxiliary Power Core I"/>
+			<hardware slot="rig slot 0" type="Small Energy Collision Accelerator I"/>
+		</fitting>
+		<fitting name="*Alpha Clone - Starter Tormentor w/Drone">
+			<description value=""/>
+			<shipType value="Tormentor"/>
+			<hardware qty="3" slot="cargo" type="Multifrequency S"/>
+			<hardware slot="med slot 0" type="1MN Afterburner I"/>
+			<hardware slot="hi slot 0" type="Small Focused Pulse Laser I"/>
+			<hardware slot="hi slot 1" type="Small Focused Pulse Laser I"/>
+			<hardware slot="hi slot 2" type="Small Focused Pulse Laser I"/>
+			<hardware slot="low slot 0" type="Small Armor Repairer I"/>
+			<hardware slot="med slot 1" type="Stasis Webifier I"/>
+			<hardware slot="low slot 3" type="Adaptive Nano Plating I"/>
+			<hardware slot="low slot 2" type="Damage Control I"/>
+			<hardware qty="2" slot="drone bay" type="Acolyte I"/>
+			<hardware slot="low slot 1" type="Heat Sink I"/>
+			<hardware qty="2" slot="drone bay" type="Hobgoblin I"/>
+			<hardware slot="med slot 2" type="Small Capacitor Booster I"/>
+			<hardware qty="1" slot="cargo" type="Cap Booster 200"/>
+		</fitting>
+		<fitting name="*Limited Mining Expedition">
+			<description value=""/>
+			<shipType value="Venture"/>
+			<hardware slot="hi slot 0" type="Miner I"/>
+			<hardware slot="hi slot 1" type="Miner I"/>
+			<hardware slot="med slot 1" type="EM Ward Field I"/>
+			<hardware slot="low slot 0" type="Shield Power Relay I"/>
+			<hardware qty="2" slot="drone bay" type="Hobgoblin I"/>
+			<hardware slot="med slot 2" type="Thermal Dissipation Amplifier I"/>
+			<hardware slot="med slot 0" type="Medium Azeotropic Restrained Shield Extender"/>
+			<hardware slot="rig slot 1" type="Small Anti-EM Screen Reinforcer I"/>
+			<hardware slot="rig slot 0" type="Small Anti-Thermal Screen Reinforcer I"/>
+			<hardware slot="rig slot 2" type="Small Core Defense Field Extender I"/>
+		</fitting>
+		<fitting name="*Null haul">
+			<description value=""/>
+			<shipType value="Magnate"/>
+			<hardware slot="med slot 2" type="Adaptive Invulnerability Field I"/>
+			<hardware slot="low slot 2" type="Inertial Stabilizers I"/>
+			<hardware slot="low slot 3" type="Inertial Stabilizers I"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware slot="low slot 1" type="Nanofiber Internal Structure I"/>
+			<hardware slot="med slot 0" type="5MN Cold-Gas Enduring Microwarpdrive"/>
+			<hardware slot="med slot 1" type="Small Azeotropic Restrained Shield Extender"/>
+			<hardware qty="8" slot="cargo" type="Core Scanner Probe I"/>
+		</fitting>
+		<fitting name="*PvE 20m">
+			<description value=""/>
+			<shipType value="Omen"/>
+			<hardware slot="low slot 0" type="Damage Control II"/>
+			<hardware slot="low slot 1" type="Heat Sink II"/>
+			<hardware slot="low slot 3" type="Heat Sink II"/>
+			<hardware slot="low slot 2" type="Medium 'Accommodation' Vestment Reconstructer I"/>
+			<hardware slot="med slot 1" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 2" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="hi slot 0" type="Focused Anode Medium Particle Stream I"/>
+			<hardware slot="hi slot 1" type="Focused Anode Medium Particle Stream I"/>
+			<hardware slot="hi slot 2" type="Focused Anode Medium Particle Stream I"/>
+			<hardware slot="hi slot 3" type="Focused Anode Medium Particle Stream I"/>
+			<hardware slot="hi slot 4" type="Focused Anode Medium Particle Stream I"/>
+			<hardware slot="low slot 4" type="Limited Energized Adaptive Nano Membrane I"/>
+			<hardware slot="low slot 5" type="Limited Energized Adaptive Nano Membrane I"/>
+			<hardware qty="5" slot="cargo" type="Imperial Navy Multifrequency M"/>
+			<hardware qty="5" slot="cargo" type="Imperial Navy Standard M"/>
+			<hardware qty="4" slot="drone bay" type="'Integrated' Hammerhead"/>
+			<hardware slot="rig slot 1" type="Medium Energy Collision Accelerator I"/>
+			<hardware slot="rig slot 2" type="Medium Energy Collision Accelerator I"/>
+			<hardware slot="med slot 0" type="10MN Y-S8 Compact Afterburner"/>
+		</fitting>
+		<fitting name="*PvE Mission Basic">
+			<description value=""/>
+			<shipType value="Maller"/>
+			<hardware qty="5" slot="cargo" type="Standard M"/>
+			<hardware slot="hi slot 0" type="Focused Medium Beam Laser I"/>
+			<hardware slot="hi slot 1" type="Focused Medium Beam Laser I"/>
+			<hardware slot="hi slot 2" type="Focused Medium Beam Laser I"/>
+			<hardware slot="hi slot 3" type="Focused Medium Beam Laser I"/>
+			<hardware slot="hi slot 4" type="Focused Medium Beam Laser I"/>
+			<hardware slot="med slot 1" type="Cap Recharger I"/>
+			<hardware slot="med slot 2" type="Cap Recharger I"/>
+			<hardware slot="low slot 4" type="Capacitor Power Relay I"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware slot="low slot 5" type="Heat Sink I"/>
+			<hardware qty="3" slot="drone bay" type="Hobgoblin I"/>
+			<hardware slot="low slot 1" type="Medium Armor Repairer I"/>
+			<hardware slot="low slot 3" type="Armor Thermal Hardener I"/>
+			<hardware slot="low slot 2" type="Armor EM Hardener I"/>
+			<hardware slot="med slot 0" type="10MN Afterburner I"/>
+			<hardware slot="rig slot 0" type="Medium Capacitor Control Circuit I"/>
+			<hardware slot="rig slot 1" type="Medium Capacitor Control Circuit I"/>
+			<hardware slot="rig slot 2" type="Medium Energy Burst Aerator I"/>
+		</fitting>
+		<fitting name="*PvE Omen">
+			<description value=""/>
+			<shipType value="Omen"/>
+			<hardware slot="low slot 0" type="Damage Control II"/>
+			<hardware slot="low slot 2" type="Medium 'Accommodation' Vestment Reconstructer I"/>
+			<hardware slot="low slot 3" type="Extruded Compact Heat Sink"/>
+			<hardware slot="med slot 2" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="hi slot 0" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 1" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 2" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 3" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 4" type="Focused Modal Medium Laser I"/>
+			<hardware slot="low slot 1" type="Type-D Restrained Capacitor Power Relay"/>
+			<hardware slot="low slot 5" type="Type-D Restrained Capacitor Power Relay"/>
+			<hardware slot="low slot 4" type="Energized Adaptive Nano Membrane I"/>
+			<hardware qty="4" slot="drone bay" type="'Integrated' Hammerhead"/>
+			<hardware slot="rig slot 2" type="Medium Capacitor Control Circuit I"/>
+			<hardware slot="rig slot 1" type="Medium Energy Collision Accelerator I"/>
+			<hardware slot="med slot 0" type="10MN Y-S8 Compact Afterburner"/>
+		</fitting>
+		<fitting name="*Simulated Magnate">
+			<description value=""/>
+			<shipType value="Magnate"/>
+			<hardware slot="low slot 1" type="Inertial Stabilizers I"/>
+			<hardware slot="low slot 2" type="Inertial Stabilizers I"/>
+			<hardware slot="low slot 3" type="Inertial Stabilizers I"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware slot="hi slot 0" type="Core Probe Launcher I"/>
+			<hardware slot="med slot 1" type="Data Analyzer I"/>
+			<hardware slot="med slot 2" type="Relic Analyzer I"/>
+			<hardware qty="8" slot="cargo" type="Core Scanner Probe I"/>
+			<hardware slot="rig slot 1" type="Small Gravity Capacitor Upgrade I"/>
+			<hardware slot="rig slot 2" type="Small Gravity Capacitor Upgrade I"/>
+			<hardware slot="med slot 0" type="5MN Quad LiF Restrained Microwarpdrive"/>
+		</fitting>
+		<fitting name="*Simulated Magnate">
+			<description value=""/>
+			<shipType value="Magnate"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware slot="low slot 1" type="Nanofiber Internal Structure I"/>
+			<hardware slot="low slot 2" type="Nanofiber Internal Structure I"/>
+			<hardware slot="low slot 3" type="Nanofiber Internal Structure I"/>
+			<hardware slot="hi slot 0" type="Core Probe Launcher I"/>
+			<hardware slot="med slot 1" type="Data Analyzer I"/>
+			<hardware slot="med slot 2" type="Relic Analyzer I"/>
+			<hardware qty="8" slot="cargo" type="Core Scanner Probe I"/>
+			<hardware slot="rig slot 0" type="Small Gravity Capacitor Upgrade I"/>
+			<hardware slot="rig slot 1" type="Small Gravity Capacitor Upgrade I"/>
+			<hardware slot="med slot 0" type="5MN Quad LiF Restrained Microwarpdrive"/>
+		</fitting>
+		<fitting name="*amarr epic">
+			<description value=""/>
+			<shipType value="Harbinger"/>
+			<hardware slot="med slot 1" type="Cap Recharger II"/>
+			<hardware slot="med slot 3" type="Cap Recharger II"/>
+			<hardware slot="low slot 1" type="Damage Control II"/>
+			<hardware qty="5" slot="drone bay" type="Acolyte I"/>
+			<hardware slot="low slot 3" type="Heat Sink II"/>
+			<hardware slot="low slot 4" type="Heat Sink II"/>
+			<hardware qty="10" slot="drone bay" type="Hobgoblin I"/>
+			<hardware slot="low slot 5" type="Medium Armor Repairer II"/>
+			<hardware slot="med slot 2" type="Eutectic Compact Cap Recharger"/>
+			<hardware slot="med slot 0" type="Large Compact Pb-Acid Cap Battery"/>
+			<hardware slot="hi slot 0" type="Heavy Modulated Energy Beam I"/>
+			<hardware slot="hi slot 1" type="Heavy Modulated Energy Beam I"/>
+			<hardware slot="hi slot 2" type="Heavy Modulated Energy Beam I"/>
+			<hardware slot="hi slot 3" type="Heavy Modulated Energy Beam I"/>
+			<hardware slot="hi slot 4" type="Heavy Modulated Energy Beam I"/>
+			<hardware slot="hi slot 5" type="Heavy Modulated Energy Beam I"/>
+			<hardware slot="low slot 2" type="Upgraded Armor EM Hardener I"/>
+			<hardware slot="low slot 0" type="Upgraded Armor Thermal Hardener I"/>
+			<hardware qty="12" slot="cargo" type="Imperial Navy Multifrequency M"/>
+			<hardware slot="rig slot 1" type="Medium Anti-EM Pump I"/>
+			<hardware slot="rig slot 2" type="Medium Anti-Thermal Pump I"/>
+			<hardware slot="rig slot 0" type="Medium Trimark Armor Pump I"/>
+		</fitting>
+		<fitting name="*amarr royal toilet">
+			<description value=""/>
+			<shipType value="Arbitrator"/>
+			<hardware qty="15" slot="drone bay" type="Hammerhead I"/>
+			<hardware slot="low slot 1" type="Reactive Armor Hardener"/>
+			<hardware slot="low slot 0" type="Medium 'Accommodation' Vestment Reconstructer I"/>
+			<hardware slot="med slot 1" type="10MN Monopropellant Enduring Afterburner"/>
+			<hardware slot="med slot 2" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 3" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="low slot 2" type="Prototype Energized Adaptive Nano Membrane I"/>
+			<hardware slot="hi slot 0" type="Drone Link Augmentor I"/>
+			<hardware slot="hi slot 1" type="Salvager I"/>
+			<hardware slot="hi slot 2" type="Salvager I"/>
+			<hardware qty="1" slot="cargo" type="Tracking Speed Script"/>
+			<hardware slot="rig slot 0" type="Medium Capacitor Control Circuit I"/>
+			<hardware slot="med slot 0" type="AML Compact Omnidirectional Tracking Link"/>
+			<hardware slot="low slot 3" type="AE-K Compact Drone Damage Amplifier"/>
+			<hardware slot="low slot 4" type="AE-K Compact Drone Damage Amplifier"/>
+		</fitting>
+		<fitting name="*angel epic">
+			<description value=""/>
+			<shipType value="Dragoon"/>
+			<hardware qty="5" slot="drone bay" type="Hobgoblin I"/>
+			<hardware qty="5" slot="drone bay" type="Hornet I"/>
+			<hardware qty="5" slot="drone bay" type="Warrior I"/>
+			<hardware slot="med slot 2" type="Eutectic Compact Cap Recharger"/>
+			<hardware slot="low slot 0" type="Small 'Accommodation' Vestment Reconstructer I"/>
+			<hardware slot="med slot 1" type="Small Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 0" type="10MN Monopropellant Enduring Afterburner"/>
+			<hardware slot="low slot 1" type="Upgraded Energized Adaptive Nano Membrane I"/>
+			<hardware slot="low slot 3" type="Upgraded Energized Adaptive Nano Membrane I"/>
+			<hardware slot="rig slot 0" type="Small Capacitor Control Circuit I"/>
+			<hardware slot="low slot 2" type="AE-K Compact Drone Damage Amplifier"/>
+		</fitting>
+		<fitting name="*pvpD">
+			<description value=""/>
+			<shipType value="Tormentor"/>
+			<hardware qty="3" slot="cargo" type="Multifrequency S"/>
+			<hardware slot="med slot 0" type="1MN Afterburner I"/>
+			<hardware slot="med slot 1" type="Warp Scrambler I"/>
+			<hardware slot="hi slot 0" type="Dual Light Pulse Laser I"/>
+			<hardware slot="hi slot 1" type="Dual Light Pulse Laser I"/>
+			<hardware slot="hi slot 2" type="Dual Light Pulse Laser I"/>
+			<hardware slot="low slot 0" type="Small Armor Repairer I"/>
+			<hardware slot="low slot 3" type="Adaptive Nano Plating I"/>
+			<hardware slot="low slot 2" type="Damage Control I"/>
+			<hardware qty="2" slot="drone bay" type="Acolyte I"/>
+			<hardware slot="med slot 2" type="Small Capacitor Booster I"/>
+			<hardware slot="low slot 1" type="Extruded Compact Heat Sink"/>
+			<hardware qty="1" slot="cargo" type="Cap Booster 200"/>
+		</fitting>
+		<fitting name="1-800-gottrash">
+			<description value=""/>
+			<shipType value="Sigil"/>
+			<hardware slot="low slot 4" type="Expanded Cargohold II"/>
+			<hardware slot="low slot 5" type="Expanded Cargohold II"/>
+			<hardware slot="low slot 1" type="Damage Control I"/>
+			<hardware slot="low slot 2" type="Type-D Restrained Inertial Stabilizers"/>
+			<hardware slot="low slot 3" type="Type-D Restrained Inertial Stabilizers"/>
+			<hardware slot="low slot 0" type="Type-D Restrained Nanofiber Structure"/>
+			<hardware slot="med slot 1" type="Large F-S9 Regolith Compact Shield Extender"/>
+			<hardware slot="med slot 3" type="Upgraded Thermal Dissipation Amplifier I"/>
+			<hardware slot="med slot 2" type="Upgraded EM Ward Amplifier I"/>
+			<hardware slot="med slot 0" type="50MN Y-T8 Compact Microwarpdrive"/>
+		</fitting>
+		<fitting name="Alpha Clone - Starter Executioner">
+			<description value=""/>
+			<shipType value="Executioner"/>
+			<hardware qty="3" slot="cargo" type="Multifrequency S"/>
+			<hardware slot="med slot 0" type="1MN Afterburner I"/>
+			<hardware slot="hi slot 0" type="Small Focused Pulse Laser I"/>
+			<hardware slot="hi slot 1" type="Small Focused Pulse Laser I"/>
+			<hardware slot="hi slot 2" type="Small Focused Pulse Laser I"/>
+			<hardware slot="low slot 1" type="Small Armor Repairer I"/>
+			<hardware slot="med slot 1" type="Stasis Webifier I"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware slot="low slot 2" type="Heat Sink I"/>
+			<hardware slot="med slot 2" type="Small Capacitor Booster I"/>
+			<hardware qty="1" slot="cargo" type="Cap Booster 200"/>
+		</fitting>
+		<fitting name="Alpha Clone - Starter Tormentor w/Drones">
+			<description value=""/>
+			<shipType value="Tormentor"/>
+			<hardware qty="3" slot="cargo" type="Multifrequency S"/>
+			<hardware slot="med slot 0" type="1MN Afterburner I"/>
+			<hardware slot="hi slot 0" type="Small Focused Pulse Laser I"/>
+			<hardware slot="hi slot 1" type="Small Focused Pulse Laser I"/>
+			<hardware slot="hi slot 2" type="Small Focused Pulse Laser I"/>
+			<hardware slot="low slot 0" type="Small Armor Repairer I"/>
+			<hardware slot="med slot 1" type="Stasis Webifier I"/>
+			<hardware slot="low slot 3" type="Adaptive Nano Plating I"/>
+			<hardware slot="low slot 2" type="Damage Control I"/>
+			<hardware qty="2" slot="drone bay" type="Acolyte I"/>
+			<hardware slot="low slot 1" type="Heat Sink I"/>
+			<hardware qty="2" slot="drone bay" type="Hobgoblin I"/>
+			<hardware slot="med slot 2" type="Small Capacitor Booster I"/>
+			<hardware qty="1" slot="cargo" type="Cap Booster 200"/>
+			<hardware slot="rig slot 0" type="Small Energy Collision Accelerator I"/>
+		</fitting>
+		<fitting name="BR Ratting Armor Arbi (fork)">
+			<description value=""/>
+			<shipType value="Arbitrator"/>
+			<hardware qty="2" slot="cargo" type="Multifrequency M"/>
+			<hardware qty="10" slot="drone bay" type="Hammerhead I"/>
+			<hardware slot="med slot 2" type="Eutectic Compact Cap Recharger"/>
+			<hardware slot="med slot 3" type="Eutectic Compact Cap Recharger"/>
+			<hardware slot="low slot 0" type="Medium 'Accommodation' Vestment Reconstructer I"/>
+			<hardware slot="med slot 1" type="10MN Monopropellant Enduring Afterburner"/>
+			<hardware slot="hi slot 1" type="Heavy Anode Particle Stream I"/>
+			<hardware slot="hi slot 2" type="Heavy Anode Particle Stream I"/>
+			<hardware qty="5" slot="drone bay" type="Valkyrie I"/>
+			<hardware slot="low slot 1" type="Prototype Energized Adaptive Nano Membrane I"/>
+			<hardware slot="hi slot 0" type="Drone Link Augmentor I"/>
+			<hardware qty="1" slot="cargo" type="Tracking Speed Script"/>
+			<hardware slot="rig slot 0" type="Medium Capacitor Control Circuit I"/>
+			<hardware slot="rig slot 1" type="Medium Capacitor Control Circuit I"/>
+			<hardware slot="med slot 0" type="AML Compact Omnidirectional Tracking Link"/>
+			<hardware slot="low slot 2" type="AE-K Compact Drone Damage Amplifier"/>
+			<hardware slot="low slot 3" type="AE-K Compact Drone Damage Amplifier"/>
+			<hardware slot="low slot 4" type="AE-K Compact Drone Damage Amplifier"/>
+		</fitting>
+		<fitting name="Bestower">
+			<description value=""/>
+			<shipType value="Bestower"/>
+			<hardware slot="med slot 1" type="Adaptive Invulnerability Field I"/>
+			<hardware slot="low slot 0" type="Expanded Cargohold II"/>
+			<hardware slot="low slot 1" type="Expanded Cargohold II"/>
+			<hardware slot="low slot 2" type="Expanded Cargohold II"/>
+			<hardware slot="low slot 5" type="Damage Control II"/>
+			<hardware slot="med slot 0" type="Medium Shield Extender II"/>
+			<hardware slot="med slot 2" type="Medium Shield Extender II"/>
+			<hardware slot="low slot 3" type="Type-D Restrained Inertial Stabilizers"/>
+			<hardware slot="low slot 4" type="Type-D Restrained Inertial Stabilizers"/>
+			<hardware slot="rig slot 0" type="Medium Cargohold Optimization I"/>
+			<hardware slot="rig slot 1" type="Medium Cargohold Optimization I"/>
+			<hardware slot="rig slot 2" type="Medium Cargohold Optimization I"/>
+		</fitting>
+		<fitting name="Fast Hauler">
+			<description value=""/>
+			<shipType value="Sigil"/>
+			<hardware slot="low slot 1" type="Damage Control I"/>
+			<hardware slot="low slot 2" type="Type-D Restrained Inertial Stabilizers"/>
+			<hardware slot="low slot 3" type="Type-D Restrained Inertial Stabilizers"/>
+			<hardware slot="low slot 0" type="Type-D Restrained Nanofiber Structure"/>
+			<hardware slot="med slot 1" type="Large F-S9 Regolith Compact Shield Extender"/>
+			<hardware slot="med slot 3" type="Upgraded Thermal Dissipation Amplifier I"/>
+			<hardware slot="med slot 2" type="Upgraded EM Ward Amplifier I"/>
+			<hardware slot="low slot 4" type="'Accord' Core Compensation"/>
+			<hardware slot="low slot 5" type="'Accord' Core Compensation"/>
+			<hardware slot="med slot 0" type="50MN Y-T8 Compact Microwarpdrive"/>
+		</fitting>
+		<fitting name="Limited Mining Expedition">
+			<description value=""/>
+			<shipType value="Venture"/>
+			<hardware slot="hi slot 0" type="Miner I"/>
+			<hardware slot="hi slot 1" type="Miner I"/>
+			<hardware slot="med slot 1" type="EM Ward Field I"/>
+			<hardware slot="low slot 0" type="Shield Power Relay I"/>
+			<hardware qty="2" slot="drone bay" type="Hobgoblin I"/>
+			<hardware slot="med slot 2" type="Thermal Dissipation Amplifier I"/>
+			<hardware slot="med slot 0" type="Medium F-S9 Regolith Compact Shield Extender"/>
+			<hardware slot="rig slot 1" type="Small Anti-EM Screen Reinforcer I"/>
+			<hardware slot="rig slot 0" type="Small Anti-Thermal Screen Reinforcer I"/>
+			<hardware slot="rig slot 2" type="Small Core Defense Field Extender I"/>
+		</fitting>
+		<fitting name="Null haul">
+			<description value=""/>
+			<shipType value="Magnate"/>
+			<hardware slot="med slot 1" type="Small Shield Extender I"/>
+			<hardware slot="med slot 2" type="Adaptive Invulnerability Field I"/>
+			<hardware slot="low slot 3" type="Inertial Stabilizers I"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware slot="low slot 1" type="Nanofiber Internal Structure I"/>
+			<hardware slot="low slot 2" type="Nanofiber Internal Structure I"/>
+			<hardware qty="8" slot="cargo" type="Core Scanner Probe I"/>
+			<hardware slot="med slot 0" type="5MN Quad LiF Restrained Microwarpdrive"/>
+		</fitting>
+		<fitting name="Prophecy PvE (fork)">
+			<description value=""/>
+			<shipType value="Prophecy"/>
+			<hardware qty="4" slot="cargo" type="Ultraviolet M"/>
+			<hardware slot="hi slot 1" type="Heavy Beam Laser I"/>
+			<hardware slot="hi slot 2" type="Heavy Beam Laser I"/>
+			<hardware slot="hi slot 3" type="Heavy Beam Laser I"/>
+			<hardware slot="hi slot 4" type="Heavy Beam Laser I"/>
+			<hardware slot="med slot 1" type="Cap Recharger I"/>
+			<hardware slot="med slot 2" type="Cap Recharger I"/>
+			<hardware slot="low slot 6" type="Damage Control II"/>
+			<hardware qty="5" slot="drone bay" type="Infiltrator I"/>
+			<hardware slot="low slot 4" type="Medium Armor Repairer II"/>
+			<hardware slot="low slot 0" type="Reactive Armor Hardener"/>
+			<hardware slot="low slot 1" type="Drone Damage Amplifier II"/>
+			<hardware slot="low slot 2" type="Drone Damage Amplifier II"/>
+			<hardware slot="low slot 3" type="Drone Damage Amplifier II"/>
+			<hardware slot="low slot 5" type="Energized Adaptive Nano Membrane II"/>
+			<hardware qty="5" slot="drone bay" type="Valkyrie I"/>
+			<hardware slot="hi slot 0" type="Drone Link Augmentor I"/>
+			<hardware qty="1" slot="cargo" type="Tracking Speed Script"/>
+			<hardware slot="rig slot 0" type="Medium Auxiliary Nano Pump I"/>
+			<hardware slot="rig slot 1" type="Medium Auxiliary Nano Pump I"/>
+			<hardware slot="rig slot 2" type="Medium Capacitor Control Circuit I"/>
+			<hardware qty="5" slot="drone bay" type="Federation Navy Hammerhead"/>
+			<hardware qty="3" slot="drone bay" type="Federation Navy Ogre"/>
+			<hardware slot="med slot 3" type="10MN Y-S8 Compact Afterburner"/>
+			<hardware slot="med slot 0" type="AML Compact Omnidirectional Tracking Link"/>
+		</fitting>
+		<fitting name="Punisher">
+			<description value=""/>
+			<shipType value="Punisher"/>
+			<hardware qty="8" slot="cargo" type="Multifrequency S"/>
+			<hardware slot="med slot 0" type="1MN Afterburner I"/>
+			<hardware slot="low slot 4" type="Small Armor Repairer I"/>
+			<hardware slot="med slot 1" type="Stasis Webifier I"/>
+			<hardware slot="low slot 1" type="Adaptive Nano Plating I"/>
+			<hardware slot="low slot 2" type="Damage Control I"/>
+			<hardware slot="hi slot 0" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 1" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 2" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 3" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="low slot 0" type="400mm Steel Plates I"/>
+			<hardware slot="low slot 3" type="Micro Auxiliary Power Core I"/>
+		</fitting>
+		<fitting name="PvE 20m">
+			<description value=""/>
+			<shipType value="Omen"/>
+			<hardware slot="low slot 0" type="Damage Control II"/>
+			<hardware slot="low slot 1" type="Heat Sink II"/>
+			<hardware slot="low slot 3" type="Heat Sink II"/>
+			<hardware slot="low slot 2" type="Medium 'Accommodation' Vestment Reconstructer I"/>
+			<hardware slot="med slot 1" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 2" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="hi slot 0" type="Focused Anode Medium Particle Stream I"/>
+			<hardware slot="hi slot 1" type="Focused Anode Medium Particle Stream I"/>
+			<hardware slot="hi slot 2" type="Focused Anode Medium Particle Stream I"/>
+			<hardware slot="hi slot 3" type="Focused Anode Medium Particle Stream I"/>
+			<hardware slot="hi slot 4" type="Focused Anode Medium Particle Stream I"/>
+			<hardware slot="low slot 4" type="Limited Energized Adaptive Nano Membrane I"/>
+			<hardware slot="low slot 5" type="Limited Energized Adaptive Nano Membrane I"/>
+			<hardware qty="5" slot="cargo" type="Imperial Navy Multifrequency M"/>
+			<hardware qty="5" slot="cargo" type="Imperial Navy Standard M"/>
+			<hardware slot="rig slot 1" type="Medium Energy Collision Accelerator I"/>
+			<hardware slot="rig slot 2" type="Medium Energy Collision Accelerator I"/>
+			<hardware slot="med slot 0" type="10MN Y-S8 Compact Afterburner"/>
+		</fitting>
+		<fitting name="PvE Mission Basic">
+			<description value=""/>
+			<shipType value="Maller"/>
+			<hardware qty="5" slot="cargo" type="Standard M"/>
+			<hardware slot="hi slot 0" type="Focused Medium Beam Laser I"/>
+			<hardware slot="hi slot 1" type="Focused Medium Beam Laser I"/>
+			<hardware slot="hi slot 2" type="Focused Medium Beam Laser I"/>
+			<hardware slot="hi slot 3" type="Focused Medium Beam Laser I"/>
+			<hardware slot="hi slot 4" type="Focused Medium Beam Laser I"/>
+			<hardware slot="med slot 1" type="Cap Recharger I"/>
+			<hardware slot="med slot 2" type="Cap Recharger I"/>
+			<hardware slot="low slot 4" type="Capacitor Power Relay I"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware slot="low slot 5" type="Heat Sink I"/>
+			<hardware qty="3" slot="drone bay" type="Hobgoblin I"/>
+			<hardware slot="low slot 1" type="Medium Armor Repairer I"/>
+			<hardware slot="low slot 3" type="Armor Thermal Hardener I"/>
+			<hardware slot="low slot 2" type="Armor EM Hardener I"/>
+			<hardware slot="med slot 0" type="10MN Afterburner I"/>
+		</fitting>
+		<fitting name="PvE Mission Basic">
+			<description value=""/>
+			<shipType value="Omen"/>
+			<hardware slot="low slot 0" type="Damage Control II"/>
+			<hardware qty="8" slot="drone bay" type="Warrior I"/>
+			<hardware slot="med slot 1" type="Patterned Stasis Web I"/>
+			<hardware slot="low slot 3" type="Small 'Accommodation' Vestment Reconstructer I"/>
+			<hardware slot="med slot 0" type="10MN Monopropellant Enduring Afterburner"/>
+			<hardware slot="hi slot 0" type="Focused Anode Medium Particle Stream I"/>
+			<hardware slot="hi slot 1" type="Focused Anode Medium Particle Stream I"/>
+			<hardware slot="hi slot 2" type="Focused Anode Medium Particle Stream I"/>
+			<hardware slot="hi slot 3" type="Focused Anode Medium Particle Stream I"/>
+			<hardware slot="hi slot 4" type="Focused Anode Medium Particle Stream I"/>
+			<hardware slot="low slot 1" type="Prototype Energized Adaptive Nano Membrane I"/>
+			<hardware slot="low slot 2" type="Prototype Energized Adaptive Nano Membrane I"/>
+			<hardware qty="5" slot="cargo" type="Imperial Navy Multifrequency M"/>
+			<hardware qty="1" slot="cargo" type="Optimal Range Script"/>
+			<hardware slot="rig slot 2" type="Medium Anti-Explosive Pump I"/>
+			<hardware slot="rig slot 0" type="Medium Auxiliary Nano Pump I"/>
+			<hardware slot="rig slot 1" type="Medium Capacitor Control Circuit I"/>
+		</fitting>
+		<fitting name="PvE Omen">
+			<description value=""/>
+			<shipType value="Omen"/>
+			<hardware slot="low slot 0" type="Damage Control II"/>
+			<hardware slot="low slot 3" type="Heat Sink II"/>
+			<hardware slot="low slot 2" type="Medium 'Accommodation' Vestment Reconstructer I"/>
+			<hardware slot="med slot 1" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 2" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="hi slot 0" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 1" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 2" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 3" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 4" type="Focused Modal Medium Laser I"/>
+			<hardware slot="low slot 1" type="Type-D Restrained Capacitor Power Relay"/>
+			<hardware slot="low slot 5" type="Type-D Restrained Capacitor Power Relay"/>
+			<hardware slot="low slot 4" type="Energized Adaptive Nano Membrane II"/>
+			<hardware qty="4" slot="drone bay" type="'Integrated' Hammerhead"/>
+			<hardware slot="rig slot 0" type="Medium Energy Burst Aerator I"/>
+			<hardware slot="rig slot 1" type="Medium Energy Collision Accelerator I"/>
+			<hardware slot="med slot 0" type="10MN Y-S8 Compact Afterburner"/>
+		</fitting>
+		<fitting name="PvE Omen">
+			<description value=""/>
+			<shipType value="Omen"/>
+			<hardware slot="low slot 0" type="Damage Control II"/>
+			<hardware slot="low slot 3" type="Heat Sink II"/>
+			<hardware slot="low slot 2" type="Medium 'Accommodation' Vestment Reconstructer I"/>
+			<hardware slot="med slot 1" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 2" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="hi slot 0" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 1" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 2" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 3" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 4" type="Focused Modal Medium Laser I"/>
+			<hardware slot="low slot 1" type="Type-D Restrained Capacitor Power Relay"/>
+			<hardware slot="low slot 5" type="Type-D Restrained Capacitor Power Relay"/>
+			<hardware slot="low slot 4" type="Energized Adaptive Nano Membrane II"/>
+			<hardware qty="4" slot="drone bay" type="'Integrated' Hammerhead"/>
+			<hardware slot="rig slot 0" type="Medium Energy Burst Aerator I"/>
+			<hardware slot="rig slot 1" type="Medium Energy Collision Accelerator I"/>
+			<hardware slot="med slot 0" type="10MN Y-S8 Compact Afterburner"/>
+		</fitting>
+		<fitting name="abyssal expr">
+			<description value=""/>
+			<shipType value="Arbitrator"/>
+			<hardware qty="5" slot="drone bay" type="Infiltrator I"/>
+			<hardware qty="5" slot="drone bay" type="Hammerhead I"/>
+			<hardware slot="low slot 1" type="Reactive Armor Hardener"/>
+			<hardware slot="low slot 0" type="Medium 'Accommodation' Vestment Reconstructer I"/>
+			<hardware slot="med slot 2" type="Large Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 3" type="Large Compact Pb-Acid Cap Battery"/>
+			<hardware qty="5" slot="drone bay" type="Valkyrie I"/>
+			<hardware slot="low slot 2" type="Prototype Energized Adaptive Nano Membrane I"/>
+			<hardware slot="hi slot 2" type="Drone Link Augmentor I"/>
+			<hardware qty="1" slot="cargo" type="Tracking Speed Script"/>
+			<hardware slot="med slot 1" type="10MN Y-S8 Compact Afterburner"/>
+			<hardware slot="med slot 0" type="AML Compact Omnidirectional Tracking Link"/>
+			<hardware slot="low slot 3" type="AE-K Compact Drone Damage Amplifier"/>
+			<hardware slot="low slot 4" type="AE-K Compact Drone Damage Amplifier"/>
+		</fitting>
+		<fitting name="amarr epic">
+			<description value=""/>
+			<shipType value="Arbitrator"/>
+			<hardware qty="5" slot="drone bay" type="Hammerhead I"/>
+			<hardware slot="low slot 0" type="Medium Armor Repairer II"/>
+			<hardware slot="low slot 2" type="Reactive Armor Hardener"/>
+			<hardware slot="low slot 1" type="Drone Damage Amplifier II"/>
+			<hardware slot="med slot 3" type="Eutectic Compact Cap Recharger"/>
+			<hardware slot="med slot 1" type="Large Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 2" type="Large Compact Pb-Acid Cap Battery"/>
+			<hardware slot="low slot 3" type="Armor EM Hardener II"/>
+			<hardware slot="low slot 4" type="Armor Thermal Hardener II"/>
+			<hardware slot="hi slot 0" type="Drone Link Augmentor I"/>
+			<hardware slot="hi slot 1" type="Drone Link Augmentor I"/>
+			<hardware qty="1" slot="cargo" type="Tracking Speed Script"/>
+			<hardware qty="5" slot="drone bay" type="Imperial Navy Infiltrator"/>
+			<hardware qty="5" slot="drone bay" type="Federation Navy Hammerhead"/>
+			<hardware slot="med slot 0" type="10MN Y-S8 Compact Afterburner"/>
+		</fitting>
+		<fitting name="amarr epic poor">
+			<description value=""/>
+			<shipType value="Arbitrator"/>
+			<hardware qty="5" slot="drone bay" type="Hammerhead I"/>
+			<hardware slot="low slot 2" type="Reactive Armor Hardener"/>
+			<hardware slot="low slot 1" type="Drone Damage Amplifier II"/>
+			<hardware slot="med slot 3" type="Eutectic Compact Cap Recharger"/>
+			<hardware slot="low slot 0" type="Medium 'Accommodation' Vestment Reconstructer I"/>
+			<hardware slot="med slot 1" type="Large Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 2" type="Large Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 0" type="10MN Monopropellant Enduring Afterburner"/>
+			<hardware slot="low slot 4" type="Limited Armor EM Hardener I"/>
+			<hardware slot="low slot 3" type="Limited Armor Thermal Hardener I"/>
+			<hardware slot="hi slot 0" type="Drone Link Augmentor I"/>
+			<hardware slot="hi slot 1" type="Drone Link Augmentor I"/>
+			<hardware qty="1" slot="cargo" type="Tracking Speed Script"/>
+			<hardware slot="rig slot 0" type="Medium Auxiliary Nano Pump I"/>
+			<hardware qty="5" slot="drone bay" type="Federation Navy Hammerhead"/>
+		</fitting>
+		<fitting name="amarr royal toilet">
+			<description value=""/>
+			<shipType value="Arbitrator"/>
+			<hardware qty="15" slot="drone bay" type="Hammerhead I"/>
+			<hardware slot="low slot 1" type="Reactive Armor Hardener"/>
+			<hardware slot="low slot 0" type="Medium 'Accommodation' Vestment Reconstructer I"/>
+			<hardware slot="med slot 2" type="Large Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 3" type="Large Compact Pb-Acid Cap Battery"/>
+			<hardware slot="low slot 2" type="Prototype Energized Adaptive Nano Membrane I"/>
+			<hardware slot="hi slot 2" type="Drone Link Augmentor I"/>
+			<hardware slot="hi slot 0" type="Salvager I"/>
+			<hardware slot="hi slot 1" type="Salvager I"/>
+			<hardware qty="1" slot="cargo" type="Tracking Speed Script"/>
+			<hardware slot="med slot 1" type="10MN Y-S8 Compact Afterburner"/>
+			<hardware slot="med slot 0" type="AML Compact Omnidirectional Tracking Link"/>
+			<hardware slot="low slot 3" type="AE-K Compact Drone Damage Amplifier"/>
+			<hardware slot="low slot 4" type="AE-K Compact Drone Damage Amplifier"/>
+		</fitting>
+		<fitting name="amarr royal toilet">
+			<description value=""/>
+			<shipType value="Arbitrator"/>
+			<hardware qty="15" slot="drone bay" type="Hammerhead I"/>
+			<hardware slot="low slot 1" type="Reactive Armor Hardener"/>
+			<hardware slot="med slot 1" type="Eutectic Compact Cap Recharger"/>
+			<hardware slot="low slot 0" type="Medium 'Accommodation' Vestment Reconstructer I"/>
+			<hardware slot="med slot 2" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 3" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="low slot 2" type="Prototype Energized Adaptive Nano Membrane I"/>
+			<hardware slot="hi slot 0" type="Drone Link Augmentor I"/>
+			<hardware qty="1" slot="cargo" type="Tracking Speed Script"/>
+			<hardware slot="med slot 0" type="AML Compact Omnidirectional Tracking Link"/>
+			<hardware slot="low slot 3" type="AE-K Compact Drone Damage Amplifier"/>
+			<hardware slot="low slot 4" type="AE-K Compact Drone Damage Amplifier"/>
+		</fitting>
+		<fitting name="angel epic">
+			<description value=""/>
+			<shipType value="Dragoon"/>
+			<hardware qty="5" slot="drone bay" type="Hobgoblin I"/>
+			<hardware qty="5" slot="drone bay" type="Hornet I"/>
+			<hardware qty="5" slot="drone bay" type="Warrior I"/>
+			<hardware slot="low slot 3" type="Reactive Armor Hardener"/>
+			<hardware slot="low slot 0" type="Small 'Accommodation' Vestment Reconstructer I"/>
+			<hardware slot="med slot 1" type="1MN Y-S8 Compact Afterburner"/>
+			<hardware slot="med slot 0" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="low slot 1" type="Upgraded Energized Adaptive Nano Membrane I"/>
+			<hardware slot="hi slot 0" type="Drone Link Augmentor I"/>
+			<hardware slot="low slot 2" type="AE-K Compact Drone Damage Amplifier"/>
+		</fitting>
+		<fitting name="armor resist">
+			<description value=""/>
+			<shipType value="Arbitrator"/>
+			<hardware slot="low slot 2" type="Upgraded Armor EM Hardener I"/>
+			<hardware slot="low slot 0" type="Upgraded Armor Explosive Hardener I"/>
+			<hardware slot="low slot 1" type="Upgraded Armor Kinetic Hardener I"/>
+			<hardware slot="low slot 4" type="Upgraded Armor Thermal Hardener I"/>
+			<hardware qty="1" slot="cargo" type="Tracking Speed Script"/>
+		</fitting>
+		<fitting name="blasters Atron">
+			<description value=""/>
+			<shipType value="Atron"/>
+			<hardware slot="low slot 2" type="Inertial Stabilizers II"/>
+			<hardware slot="med slot 1" type="Medium Shield Extender II"/>
+			<hardware slot="low slot 0" type="Type-D Restrained Inertial Stabilizers"/>
+			<hardware slot="low slot 1" type="Type-D Restrained Inertial Stabilizers"/>
+			<hardware slot="med slot 2" type="Limited Adaptive Invulnerability Field I"/>
+			<hardware slot="rig slot 0" type="Small Low Friction Nozzle Joints I"/>
+			<hardware slot="rig slot 1" type="Small Hyperspatial Velocity Optimizer I"/>
+			<hardware slot="rig slot 2" type="Small Hyperspatial Velocity Optimizer I"/>
+			<hardware slot="med slot 0" type="5MN Quad LiF Restrained Microwarpdrive"/>
+		</fitting>
+		<fitting name="blood raider">
+			<description value=""/>
+			<shipType value="Omen"/>
+			<hardware slot="low slot 0" type="Damage Control II"/>
+			<hardware slot="low slot 1" type="Heat Sink II"/>
+			<hardware slot="low slot 3" type="Heat Sink II"/>
+			<hardware qty="8" slot="drone bay" type="Hobgoblin I"/>
+			<hardware slot="low slot 2" type="Reactive Armor Hardener"/>
+			<hardware slot="med slot 2" type="Eutectic Compact Cap Recharger"/>
+			<hardware slot="med slot 1" type="Large Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 0" type="10MN Monopropellant Enduring Afterburner"/>
+			<hardware slot="hi slot 0" type="Focused Anode Medium Particle Stream I"/>
+			<hardware slot="hi slot 1" type="Focused Anode Medium Particle Stream I"/>
+			<hardware slot="hi slot 2" type="Focused Anode Medium Particle Stream I"/>
+			<hardware slot="hi slot 3" type="Focused Anode Medium Particle Stream I"/>
+			<hardware slot="hi slot 4" type="Focused Anode Medium Particle Stream I"/>
+			<hardware slot="low slot 5" type="Limited Armor EM Hardener I"/>
+			<hardware slot="low slot 4" type="Limited Armor Thermal Hardener I"/>
+			<hardware qty="5" slot="cargo" type="Imperial Navy Multifrequency M"/>
+			<hardware qty="5" slot="cargo" type="Imperial Navy Standard M"/>
+			<hardware slot="rig slot 1" type="Medium Energy Collision Accelerator I"/>
+			<hardware slot="rig slot 2" type="Medium Energy Collision Accelerator I"/>
+		</fitting>
+		<fitting name="blood raider rat">
+			<description value=""/>
+			<shipType value="Arbitrator"/>
+			<hardware qty="15" slot="drone bay" type="Hammerhead I"/>
+			<hardware slot="low slot 0" type="Medium 'Accommodation' Vestment Reconstructer I"/>
+			<hardware slot="med slot 1" type="Large Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 2" type="Large Compact Pb-Acid Cap Battery"/>
+			<hardware slot="low slot 4" type="Armor Thermal Hardener I"/>
+			<hardware slot="low slot 3" type="Armor EM Hardener I"/>
+			<hardware slot="hi slot 0" type="Drone Link Augmentor I"/>
+			<hardware qty="1" slot="cargo" type="Tracking Speed Script"/>
+			<hardware slot="med slot 3" type="10MN Y-S8 Compact Afterburner"/>
+			<hardware slot="med slot 0" type="AML Compact Omnidirectional Tracking Link"/>
+			<hardware slot="low slot 1" type="AE-K Compact Drone Damage Amplifier"/>
+			<hardware slot="low slot 2" type="AE-K Compact Drone Damage Amplifier"/>
+		</fitting>
+		<fitting name="caldari epic">
+			<description value=""/>
+			<shipType value="Arbitrator"/>
+			<hardware slot="low slot 0" type="Damage Control II"/>
+			<hardware slot="low slot 2" type="Drone Damage Amplifier II"/>
+			<hardware slot="med slot 0" type="10MN Monopropellant Enduring Afterburner"/>
+			<hardware slot="hi slot 2" type="Heavy Modulated Pulse Energy Beam I"/>
+			<hardware slot="hi slot 3" type="Heavy Modulated Pulse Energy Beam I"/>
+			<hardware slot="med slot 1" type="Large Azeotropic Restrained Shield Extender"/>
+			<hardware slot="med slot 2" type="Large Azeotropic Restrained Shield Extender"/>
+			<hardware slot="med slot 3" type="Large Azeotropic Restrained Shield Extender"/>
+			<hardware qty="15" slot="drone bay" type="Vespa I"/>
+			<hardware qty="4" slot="cargo" type="Imperial Navy Multifrequency M"/>
+			<hardware slot="hi slot 0" type="Drone Link Augmentor I"/>
+			<hardware slot="hi slot 1" type="Drone Link Augmentor I"/>
+			<hardware slot="rig slot 0" type="Medium Anti-Kinetic Screen Reinforcer I"/>
+			<hardware slot="rig slot 1" type="Medium Anti-Thermal Screen Reinforcer I"/>
+			<hardware slot="rig slot 2" type="Medium Anti-Thermal Screen Reinforcer I"/>
+			<hardware slot="low slot 1" type="N-JM Compact Omnidirectional Tracking Enhancer"/>
+			<hardware slot="low slot 3" type="AE-K Compact Drone Damage Amplifier"/>
+			<hardware slot="low slot 4" type="AE-K Compact Drone Damage Amplifier"/>
+		</fitting>
+		<fitting name="caldari ratting">
+			<description value=""/>
+			<shipType value="Arbitrator"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware qty="10" slot="drone bay" type="Hammerhead I"/>
+			<hardware slot="med slot 1" type="Large Azeotropic Restrained Shield Extender"/>
+			<hardware slot="med slot 2" type="Large Azeotropic Restrained Shield Extender"/>
+			<hardware slot="med slot 3" type="Limited Adaptive Invulnerability Field I"/>
+			<hardware qty="5" slot="drone bay" type="Vespa I"/>
+			<hardware slot="hi slot 0" type="Drone Link Augmentor I"/>
+			<hardware slot="hi slot 1" type="Drone Link Augmentor I"/>
+			<hardware slot="rig slot 0" type="Medium Anti-Kinetic Screen Reinforcer I"/>
+			<hardware slot="rig slot 1" type="Medium Anti-Thermal Screen Reinforcer I"/>
+			<hardware slot="med slot 0" type="100MN Y-S8 Compact Afterburner"/>
+			<hardware slot="low slot 1" type="N-JM Compact Omnidirectional Tracking Enhancer"/>
+			<hardware slot="low slot 2" type="AE-K Compact Drone Damage Amplifier"/>
+			<hardware slot="low slot 3" type="AE-K Compact Drone Damage Amplifier"/>
+			<hardware slot="low slot 4" type="AE-K Compact Drone Damage Amplifier"/>
+		</fitting>
+		<fitting name="carebear">
+			<description value=""/>
+			<shipType value="Coercer"/>
+			<hardware qty="8" slot="cargo" type="Standard S"/>
+			<hardware qty="8" slot="cargo" type="Ultraviolet S"/>
+			<hardware qty="8" slot="cargo" type="Multifrequency S"/>
+			<hardware slot="hi slot 0" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 1" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 2" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 3" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 4" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 5" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 6" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 7" type="Dual Light Beam Laser I"/>
+			<hardware slot="low slot 0" type="Small Armor Repairer I"/>
+			<hardware slot="low slot 1" type="Damage Control I"/>
+			<hardware slot="med slot 1" type="Faint Scoped Warp Disruptor"/>
+			<hardware slot="low slot 2" type="Extruded Compact Heat Sink"/>
+			<hardware slot="med slot 0" type="5MN Quad LiF Restrained Microwarpdrive"/>
+		</fitting>
+		<fitting name="carebear_kiss">
+			<description value=""/>
+			<shipType value="Coercer"/>
+			<hardware qty="8" slot="cargo" type="Microwave S"/>
+			<hardware qty="8" slot="cargo" type="Standard S"/>
+			<hardware qty="8" slot="cargo" type="Multifrequency S"/>
+			<hardware slot="hi slot 0" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 1" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 2" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 3" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 4" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 5" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 6" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 7" type="Dual Light Beam Laser I"/>
+			<hardware slot="low slot 1" type="Damage Control I"/>
+			<hardware slot="med slot 1" type="Faint Epsilon Scoped Warp Scrambler"/>
+			<hardware slot="low slot 0" type="Extruded Compact Heat Sink"/>
+			<hardware slot="low slot 2" type="Extruded Compact Heat Sink"/>
+			<hardware slot="med slot 0" type="5MN Quad LiF Restrained Microwarpdrive"/>
+		</fitting>
+		<fitting name="dark-easy">
+			<description value=""/>
+			<shipType value="Arbitrator"/>
+			<hardware qty="2" slot="cargo" type="Radio M"/>
+			<hardware qty="2" slot="cargo" type="Microwave M"/>
+			<hardware qty="2" slot="cargo" type="Standard M"/>
+			<hardware qty="2" slot="cargo" type="Multifrequency M"/>
+			<hardware slot="low slot 0" type="Damage Control II"/>
+			<hardware qty="7" slot="drone bay" type="Infiltrator I"/>
+			<hardware slot="med slot 0" type="X5 Enduring Stasis Webifier"/>
+			<hardware slot="hi slot 2" type="Heavy Modulated Energy Beam I"/>
+			<hardware slot="hi slot 3" type="Heavy Modulated Energy Beam I"/>
+			<hardware slot="med slot 1" type="Large Azeotropic Restrained Shield Extender"/>
+			<hardware slot="med slot 2" type="Large Azeotropic Restrained Shield Extender"/>
+			<hardware slot="med slot 3" type="Limited Adaptive Invulnerability Field I"/>
+			<hardware qty="8" slot="drone bay" type="Valkyrie I"/>
+			<hardware slot="hi slot 0" type="Drone Link Augmentor I"/>
+			<hardware qty="1" slot="cargo" type="Tracking Speed Script"/>
+			<hardware slot="rig slot 0" type="Medium Anti-EM Screen Reinforcer I"/>
+			<hardware slot="rig slot 1" type="Medium Anti-EM Screen Reinforcer I"/>
+			<hardware slot="rig slot 2" type="Medium Core Defense Field Extender I"/>
+			<hardware slot="low slot 1" type="N-JM Compact Omnidirectional Tracking Enhancer"/>
+			<hardware slot="low slot 2" type="AE-K Compact Drone Damage Amplifier"/>
+			<hardware slot="low slot 3" type="AE-K Compact Drone Damage Amplifier"/>
+			<hardware slot="low slot 4" type="AE-K Compact Drone Damage Amplifier"/>
+		</fitting>
+		<fitting name="dp Magnate">
+			<description value=""/>
+			<shipType value="Magnate"/>
+			<hardware slot="low slot 3" type="Expanded Cargohold I"/>
+			<hardware slot="low slot 1" type="Inertial Stabilizers I"/>
+			<hardware slot="low slot 2" type="Inertial Stabilizers I"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware slot="hi slot 0" type="Core Probe Launcher I"/>
+			<hardware slot="med slot 1" type="Data Analyzer I"/>
+			<hardware slot="med slot 2" type="Relic Analyzer I"/>
+			<hardware qty="8" slot="cargo" type="Core Scanner Probe I"/>
+			<hardware slot="rig slot 1" type="Small Gravity Capacitor Upgrade I"/>
+			<hardware slot="rig slot 2" type="Small Gravity Capacitor Upgrade I"/>
+			<hardware slot="med slot 0" type="5MN Quad LiF Restrained Microwarpdrive"/>
+		</fitting>
+		<fitting name="fire-easy">
+			<description value=""/>
+			<shipType value="Arbitrator"/>
+			<hardware qty="2" slot="cargo" type="Radio M"/>
+			<hardware qty="2" slot="cargo" type="Microwave M"/>
+			<hardware qty="2" slot="cargo" type="Standard M"/>
+			<hardware qty="2" slot="cargo" type="Multifrequency M"/>
+			<hardware slot="low slot 0" type="Damage Control II"/>
+			<hardware qty="7" slot="drone bay" type="Hammerhead I"/>
+			<hardware slot="med slot 0" type="X5 Enduring Stasis Webifier"/>
+			<hardware slot="hi slot 2" type="Heavy Modulated Energy Beam I"/>
+			<hardware slot="hi slot 3" type="Heavy Modulated Energy Beam I"/>
+			<hardware slot="med slot 1" type="Large Azeotropic Restrained Shield Extender"/>
+			<hardware slot="med slot 2" type="Large Azeotropic Restrained Shield Extender"/>
+			<hardware slot="med slot 3" type="Limited Adaptive Invulnerability Field I"/>
+			<hardware qty="8" slot="drone bay" type="Valkyrie I"/>
+			<hardware slot="hi slot 0" type="Drone Link Augmentor I"/>
+			<hardware slot="rig slot 0" type="Medium Anti-EM Screen Reinforcer I"/>
+			<hardware slot="rig slot 1" type="Medium Anti-Thermal Screen Reinforcer I"/>
+			<hardware slot="rig slot 2" type="Medium Core Defense Field Extender I"/>
+			<hardware slot="low slot 1" type="N-JM Compact Omnidirectional Tracking Enhancer"/>
+			<hardware slot="low slot 2" type="AE-K Compact Drone Damage Amplifier"/>
+			<hardware slot="low slot 3" type="AE-K Compact Drone Damage Amplifier"/>
+			<hardware slot="low slot 4" type="AE-K Compact Drone Damage Amplifier"/>
+		</fitting>
+		<fitting name="guristas rat">
+			<description value=""/>
+			<shipType value="Arbitrator"/>
+			<hardware slot="low slot 2" type="Reactive Armor Hardener"/>
+			<hardware slot="low slot 0" type="Medium 'Accommodation' Vestment Reconstructer I"/>
+			<hardware slot="med slot 1" type="Large Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 2" type="Large Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 3" type="10MN Monopropellant Enduring Afterburner"/>
+			<hardware qty="15" slot="drone bay" type="Vespa I"/>
+			<hardware slot="low slot 3" type="Upgraded Armor Kinetic Hardener I"/>
+			<hardware slot="low slot 4" type="Upgraded Armor Thermal Hardener I"/>
+			<hardware slot="hi slot 0" type="Drone Link Augmentor I"/>
+			<hardware slot="hi slot 1" type="Drone Link Augmentor I"/>
+			<hardware qty="1" slot="cargo" type="Tracking Speed Script"/>
+			<hardware slot="med slot 0" type="AML Compact Omnidirectional Tracking Link"/>
+			<hardware slot="low slot 1" type="AE-K Compact Drone Damage Amplifier"/>
+		</fitting>
+		<fitting name="hisec haul">
+			<description value=""/>
+			<shipType value="Magnate"/>
+			<hardware slot="med slot 1" type="Adaptive Invulnerability Field I"/>
+			<hardware slot="med slot 2" type="Adaptive Invulnerability Field I"/>
+			<hardware slot="low slot 2" type="Inertial Stabilizers I"/>
+			<hardware slot="low slot 3" type="Inertial Stabilizers I"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware slot="med slot 0" type="Medium Shield Extender I"/>
+			<hardware slot="low slot 1" type="Type-D Restrained Expanded Cargo"/>
+		</fitting>
+		<fitting name="leaky condom">
+			<description value=""/>
+			<shipType value="Coercer"/>
+			<hardware qty="8" slot="cargo" type="Microwave S"/>
+			<hardware qty="8" slot="cargo" type="Standard S"/>
+			<hardware qty="8" slot="cargo" type="Multifrequency S"/>
+			<hardware slot="hi slot 0" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 1" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 2" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 3" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 4" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 5" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 6" type="Dual Light Beam Laser I"/>
+			<hardware slot="hi slot 7" type="Dual Light Beam Laser I"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware slot="med slot 0" type="Faint Scoped Warp Disruptor"/>
+			<hardware slot="low slot 1" type="Extruded Compact Heat Sink"/>
+			<hardware slot="med slot 1" type="10MN Y-S8 Compact Afterburner"/>
+		</fitting>
+		<fitting name="lifesteal">
+			<description value=""/>
+			<shipType value="Dragoon"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware qty="10" slot="drone bay" type="Hobgoblin I"/>
+			<hardware qty="5" slot="drone bay" type="Warrior I"/>
+			<hardware slot="med slot 2" type="X5 Enduring Stasis Webifier"/>
+			<hardware slot="hi slot 2" type="Small Infectious Scoped Energy Neutralizer"/>
+			<hardware slot="hi slot 3" type="Small Infectious Scoped Energy Neutralizer"/>
+			<hardware slot="hi slot 0" type="Small Knave Scoped Energy Nosferatu"/>
+			<hardware slot="hi slot 1" type="Small Ghoul Compact Energy Nosferatu"/>
+			<hardware slot="hi slot 4" type="Small Ghoul Compact Energy Nosferatu"/>
+			<hardware slot="med slot 1" type="Faint Epsilon Scoped Warp Scrambler"/>
+			<hardware slot="med slot 0" type="5MN Y-T8 Compact Microwarpdrive"/>
+			<hardware slot="low slot 2" type="'Refuge' Adaptive Nano Plating I"/>
+			<hardware slot="low slot 3" type="Experimental Kinetic Plating I"/>
+			<hardware slot="low slot 1" type="Prototype Armor Thermal Hardener I"/>
+		</fitting>
+		<fitting name="missile mwd scramkite">
+			<description value=""/>
+			<shipType value="Arbitrator"/>
+			<hardware qty="10" slot="drone bay" type="Hammerhead I"/>
+			<hardware slot="med slot 0" type="100MN Monopropellant Enduring Afterburner"/>
+			<hardware slot="med slot 1" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 2" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 3" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="low slot 4" type="Armor Thermal Hardener I"/>
+			<hardware slot="low slot 3" type="Armor EM Hardener I"/>
+			<hardware slot="hi slot 0" type="Drone Link Augmentor I"/>
+			<hardware slot="rig slot 0" type="Medium Capacitor Control Circuit I"/>
+			<hardware slot="low slot 0" type="AE-K Compact Drone Damage Amplifier"/>
+			<hardware slot="low slot 1" type="AE-K Compact Drone Damage Amplifier"/>
+			<hardware slot="low slot 2" type="AE-K Compact Drone Damage Amplifier"/>
+		</fitting>
+		<fitting name="mr. sponge">
+			<description value=""/>
+			<shipType value="Catalyst"/>
+			<hardware slot="med slot 1" type="Adaptive Invulnerability Field I"/>
+			<hardware slot="low slot 1" type="Damage Control I"/>
+			<hardware slot="med slot 0" type="Medium Shield Extender I"/>
+			<hardware slot="hi slot 0" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 1" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 2" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 3" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 4" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 5" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 6" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 7" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="low slot 0" type="Magnetic Field Stabilizer I"/>
+			<hardware slot="low slot 2" type="Magnetic Field Stabilizer I"/>
+			<hardware slot="rig slot 1" type="Small Processor Overclocking Unit I"/>
+			<hardware slot="rig slot 0" type="Small Anti-EM Screen Reinforcer I"/>
+			<hardware slot="rig slot 2" type="Small Anti-Thermal Screen Reinforcer I"/>
+		</fitting>
+		<fitting name="mr. sponge fit">
+			<description value=""/>
+			<shipType value="Catalyst"/>
+			<hardware slot="rig slot 2" type="Small Anti-Thermal Screen Reinforcer I"/>
+			<hardware slot="rig slot 1" type="Small Processor Overclocking Unit I"/>
+			<hardware slot="rig slot 0" type="Small Anti-EM Screen Reinforcer I"/>
+			<hardware slot="hi slot 7" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 6" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 5" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 4" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 3" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 2" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 1" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="hi slot 0" type="Anode Light Ion Particle Cannon I"/>
+			<hardware slot="med slot 1" type="Adaptive Invulnerability Field I"/>
+			<hardware slot="med slot 0" type="Medium Shield Extender I"/>
+			<hardware slot="low slot 2" type="Magnetic Field Stabilizer I"/>
+			<hardware slot="low slot 1" type="Damage Control I"/>
+			<hardware slot="low slot 0" type="Magnetic Field Stabilizer I"/>
+			<hardware qty="40" slot="cargo" type="Caldari Navy Antimatter Charge S"/>
+		</fitting>
+		<fitting name="null Omen">
+			<description value=""/>
+			<shipType value="Omen"/>
+			<hardware slot="low slot 0" type="Damage Control II"/>
+			<hardware slot="low slot 2" type="Medium 'Accommodation' Vestment Reconstructer I"/>
+			<hardware slot="low slot 3" type="Extruded Compact Heat Sink"/>
+			<hardware slot="med slot 1" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 2" type="Medium Compact Pb-Acid Cap Battery"/>
+			<hardware slot="hi slot 0" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 1" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 2" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 3" type="Focused Modal Medium Laser I"/>
+			<hardware slot="hi slot 4" type="Focused Modal Medium Laser I"/>
+			<hardware slot="low slot 1" type="Type-D Restrained Capacitor Power Relay"/>
+			<hardware slot="low slot 4" type="Energized Adaptive Nano Membrane I"/>
+			<hardware slot="low slot 5" type="Energized Adaptive Nano Membrane I"/>
+			<hardware slot="rig slot 2" type="Medium Capacitor Control Circuit I"/>
+			<hardware slot="rig slot 1" type="Medium Energy Collision Accelerator I"/>
+			<hardware slot="med slot 0" type="10MN Y-S8 Compact Afterburner"/>
+		</fitting>
+		<fitting name="pvpD">
+			<description value=""/>
+			<shipType value="Tormentor"/>
+			<hardware qty="3" slot="cargo" type="Multifrequency S"/>
+			<hardware slot="med slot 0" type="1MN Afterburner I"/>
+			<hardware slot="hi slot 0" type="Dual Light Pulse Laser I"/>
+			<hardware slot="hi slot 1" type="Dual Light Pulse Laser I"/>
+			<hardware slot="hi slot 2" type="Dual Light Pulse Laser I"/>
+			<hardware slot="low slot 0" type="Small Armor Repairer I"/>
+			<hardware slot="low slot 3" type="Adaptive Nano Plating I"/>
+			<hardware slot="low slot 2" type="Damage Control I"/>
+			<hardware qty="2" slot="drone bay" type="Acolyte I"/>
+			<hardware slot="med slot 1" type="Warp Disruptor I"/>
+			<hardware slot="med slot 2" type="Small Capacitor Booster I"/>
+			<hardware slot="low slot 1" type="Extruded Compact Heat Sink"/>
+			<hardware qty="1" slot="cargo" type="Cap Booster 200"/>
+		</fitting>
+		<fitting name="rogue drone">
+			<description value=""/>
+			<shipType value="Arbitrator"/>
+			<hardware qty="15" slot="drone bay" type="Hammerhead I"/>
+			<hardware slot="low slot 1" type="Reactive Armor Hardener"/>
+			<hardware slot="med slot 1" type="Eutectic Compact Cap Recharger"/>
+			<hardware slot="med slot 2" type="Eutectic Compact Cap Recharger"/>
+			<hardware slot="med slot 3" type="Eutectic Compact Cap Recharger"/>
+			<hardware slot="low slot 0" type="Medium 'Accommodation' Vestment Reconstructer I"/>
+			<hardware slot="low slot 2" type="Prototype Energized Adaptive Nano Membrane I"/>
+			<hardware slot="hi slot 0" type="Drone Link Augmentor I"/>
+			<hardware qty="1" slot="cargo" type="Tracking Speed Script"/>
+			<hardware slot="med slot 0" type="AML Compact Omnidirectional Tracking Link"/>
+			<hardware slot="low slot 3" type="AE-K Compact Drone Damage Amplifier"/>
+			<hardware slot="low slot 4" type="AE-K Compact Drone Damage Amplifier"/>
+		</fitting>
+		<fitting name="rogue drone">
+			<description value=""/>
+			<shipType value="Dragoon"/>
+			<hardware qty="15" slot="drone bay" type="Hobgoblin I"/>
+			<hardware slot="med slot 2" type="Eutectic Compact Cap Recharger"/>
+			<hardware slot="low slot 0" type="Small 'Accommodation' Vestment Reconstructer I"/>
+			<hardware slot="med slot 1" type="Small Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 0" type="10MN Monopropellant Enduring Afterburner"/>
+			<hardware slot="low slot 1" type="Upgraded Energized Adaptive Nano Membrane I"/>
+			<hardware slot="low slot 3" type="Upgraded Energized Adaptive Nano Membrane I"/>
+			<hardware slot="rig slot 0" type="Small Capacitor Control Circuit I"/>
+			<hardware slot="low slot 2" type="AE-K Compact Drone Damage Amplifier"/>
+		</fitting>
+		<fitting name="shop list">
+			<description value=""/>
+			<shipType value="Arbitrator"/>
+			<hardware qty="2" slot="cargo" type="Multifrequency M"/>
+			<hardware qty="10" slot="drone bay" type="Hammerhead I"/>
+			<hardware slot="med slot 2" type="Eutectic Compact Cap Recharger"/>
+			<hardware slot="med slot 3" type="Eutectic Compact Cap Recharger"/>
+			<hardware slot="med slot 1" type="10MN Monopropellant Enduring Afterburner"/>
+			<hardware slot="hi slot 1" type="Heavy Anode Particle Stream I"/>
+			<hardware slot="hi slot 2" type="Heavy Anode Particle Stream I"/>
+			<hardware qty="5" slot="drone bay" type="Valkyrie I"/>
+			<hardware slot="low slot 1" type="Prototype Armor EM Hardener I"/>
+			<hardware slot="low slot 2" type="Prototype Armor Explosive Hardener I"/>
+			<hardware slot="low slot 3" type="Prototype Armor Kinetic Hardener I"/>
+			<hardware slot="low slot 4" type="Prototype Armor Thermal Hardener I"/>
+			<hardware slot="low slot 0" type="Prototype Energized Adaptive Nano Membrane I"/>
+			<hardware slot="hi slot 0" type="Drone Link Augmentor I"/>
+			<hardware qty="1" slot="cargo" type="Tracking Speed Script"/>
+			<hardware slot="rig slot 0" type="Medium Capacitor Control Circuit I"/>
+			<hardware slot="rig slot 1" type="Medium Capacitor Control Circuit I"/>
+			<hardware slot="med slot 0" type="AML Compact Omnidirectional Tracking Link"/>
+		</fitting>
+		<fitting name="spectre">
+			<description value=""/>
+			<shipType value="Magnate"/>
+			<hardware slot="med slot 1" type="Small Shield Extender II"/>
+			<hardware slot="med slot 2" type="Small Shield Extender II"/>
+			<hardware slot="low slot 2" type="Inertial Stabilizers II"/>
+			<hardware slot="low slot 3" type="Inertial Stabilizers II"/>
+			<hardware slot="low slot 1" type="Nanofiber Internal Structure II"/>
+			<hardware slot="low slot 0" type="Type-D Restrained Inertial Stabilizers"/>
+			<hardware slot="med slot 0" type="5MN Cold-Gas Enduring Microwarpdrive"/>
+			<hardware qty="8" slot="cargo" type="Core Scanner Probe I"/>
+			<hardware slot="rig slot 2" type="Small Hyperspatial Velocity Optimizer I"/>
+			<hardware slot="rig slot 0" type="Small Polycarbon Engine Housing I"/>
+			<hardware slot="rig slot 1" type="Small Anti-EM Screen Reinforcer I"/>
+		</fitting>
+		<fitting name="suicide">
+			<description value=""/>
+			<shipType value="Coercer"/>
+			<hardware qty="8" slot="cargo" type="Multifrequency S"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware slot="med slot 0" type="Faint Epsilon Scoped Warp Scrambler"/>
+			<hardware slot="low slot 1" type="Extruded Compact Heat Sink"/>
+			<hardware slot="low slot 2" type="Extruded Compact Heat Sink"/>
+			<hardware slot="hi slot 0" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 1" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 2" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 3" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 4" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 5" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 6" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 7" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="rig slot 1" type="Small Energy Burst Aerator I"/>
+			<hardware slot="rig slot 0" type="Small Energy Collision Accelerator I"/>
+			<hardware slot="med slot 1" type="5MN Quad LiF Restrained Microwarpdrive"/>
+		</fitting>
+		<fitting name="suicide (fork)">
+			<description value=""/>
+			<shipType value="Coercer"/>
+			<hardware qty="8" slot="cargo" type="Multifrequency S"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware slot="med slot 1" type="Fleeting Compact Stasis Webifier"/>
+			<hardware slot="low slot 1" type="Extruded Compact Heat Sink"/>
+			<hardware slot="low slot 2" type="Extruded Compact Heat Sink"/>
+			<hardware slot="hi slot 0" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 1" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 2" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 3" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 4" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 5" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 6" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="hi slot 7" type="Small Focused Modal Pulse Laser I"/>
+			<hardware slot="med slot 0" type="Medium Azeotropic Restrained Shield Extender"/>
+			<hardware slot="rig slot 0" type="Small Anti-EM Screen Reinforcer I"/>
+			<hardware slot="rig slot 1" type="Small Anti-Kinetic Screen Reinforcer I"/>
+			<hardware slot="rig slot 2" type="Small Anti-Thermal Screen Reinforcer I"/>
+		</fitting>
+		<fitting name="synd rat">
+			<description value=""/>
+			<shipType value="Arbitrator"/>
+			<hardware qty="15" slot="drone bay" type="Hammerhead I"/>
+			<hardware slot="low slot 0" type="Medium 'Accommodation' Vestment Reconstructer I"/>
+			<hardware slot="med slot 1" type="Large Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 2" type="Large Compact Pb-Acid Cap Battery"/>
+			<hardware slot="low slot 2" type="Upgraded Armor Kinetic Hardener I"/>
+			<hardware slot="low slot 3" type="Upgraded Armor Thermal Hardener I"/>
+			<hardware slot="low slot 4" type="Upgraded Armor Thermal Hardener I"/>
+			<hardware slot="hi slot 0" type="Drone Link Augmentor I"/>
+			<hardware qty="1" slot="cargo" type="Tracking Speed Script"/>
+			<hardware slot="med slot 3" type="10MN Y-S8 Compact Afterburner"/>
+			<hardware slot="med slot 0" type="AML Compact Omnidirectional Tracking Link"/>
+			<hardware slot="low slot 1" type="AE-K Compact Drone Damage Amplifier"/>
+		</fitting>
+		<fitting name="travel">
+			<description value=""/>
+			<shipType value="Arbitrator"/>
+			<hardware slot="low slot 0" type="Damage Control I"/>
+			<hardware slot="med slot 1" type="Large Compact Pb-Acid Cap Battery"/>
+			<hardware slot="med slot 2" type="Large Compact Pb-Acid Cap Battery"/>
+			<hardware slot="low slot 3" type="Upgraded Armor Kinetic Hardener I"/>
+			<hardware slot="low slot 4" type="Upgraded Armor Thermal Hardener I"/>
+			<hardware slot="hi slot 0" type="Drone Link Augmentor I"/>
+			<hardware qty="1" slot="cargo" type="Tracking Speed Script"/>
+			<hardware slot="med slot 3" type="10MN Y-S8 Compact Afterburner"/>
+			<hardware slot="med slot 0" type="AML Compact Omnidirectional Tracking Link"/>
+		</fitting>
+		<fitting name="underlord_tem">
+			<description value=""/>
+			<shipType value="Arbitrator"/>
+			<hardware qty="2" slot="cargo" type="Radio M"/>
+			<hardware qty="2" slot="cargo" type="Microwave M"/>
+			<hardware qty="2" slot="cargo" type="Standard M"/>
+			<hardware qty="2" slot="cargo" type="Multifrequency M"/>
+			<hardware slot="low slot 0" type="Damage Control II"/>
+			<hardware qty="7" slot="drone bay" type="Infiltrator I"/>
+			<hardware slot="hi slot 2" type="Heavy Modulated Energy Beam I"/>
+			<hardware slot="hi slot 3" type="Heavy Modulated Energy Beam I"/>
+			<hardware slot="med slot 1" type="Large Azeotropic Restrained Shield Extender"/>
+			<hardware slot="med slot 2" type="Large Azeotropic Restrained Shield Extender"/>
+			<hardware slot="med slot 3" type="Limited Adaptive Invulnerability Field I"/>
+			<hardware qty="8" slot="drone bay" type="Valkyrie I"/>
+			<hardware slot="hi slot 0" type="Drone Link Augmentor I"/>
+			<hardware qty="1" slot="cargo" type="Tracking Speed Script"/>
+			<hardware slot="rig slot 0" type="Medium Anti-EM Screen Reinforcer I"/>
+			<hardware slot="rig slot 2" type="Medium Core Defense Field Extender I"/>
+			<hardware slot="low slot 1" type="N-JM Compact Omnidirectional Tracking Enhancer"/>
+			<hardware slot="low slot 2" type="AE-K Compact Drone Damage Amplifier"/>
+			<hardware slot="low slot 3" type="AE-K Compact Drone Damage Amplifier"/>
+			<hardware slot="low slot 4" type="AE-K Compact Drone Damage Amplifier"/>
+		</fitting>
+		<fitting name="wip Slasher">
+			<description value=""/>
+			<shipType value="Slasher"/>
+			<hardware slot="low slot 0" type="Inertial Stabilizers II"/>
+			<hardware slot="low slot 1" type="Inertial Stabilizers II"/>
+			<hardware slot="med slot 0" type="Medium Shield Extender II"/>
+			<hardware slot="med slot 3" type="Limited Adaptive Invulnerability Field I"/>
+			<hardware slot="rig slot 0" type="Small Low Friction Nozzle Joints I"/>
+			<hardware slot="rig slot 1" type="Small Hyperspatial Velocity Optimizer I"/>
+			<hardware slot="rig slot 2" type="Small Hyperspatial Velocity Optimizer I"/>
+		</fitting>
+	</fittings>

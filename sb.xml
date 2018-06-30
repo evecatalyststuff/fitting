@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+	<fittings>
+		<fitting name="Skillbook Pack 1.12">
+			<description value=""/>
+			<shipType value="Caldari Shuttle"/>
+			<hardware qty="1" slot="cargo" type="Small Hybrid Turret"/>
+			<hardware qty="1" slot="cargo" type="Small Projectile Turret"/>
+			<hardware qty="1" slot="cargo" type="Small Energy Turret"/>
+			<hardware qty="1" slot="cargo" type="Medium Hybrid Turret"/>
+			<hardware qty="1" slot="cargo" type="Medium Projectile Turret"/>
+			<hardware qty="1" slot="cargo" type="Medium Energy Turret"/>
+			<hardware qty="1" slot="cargo" type="Rockets"/>
+			<hardware qty="1" slot="cargo" type="Light Missiles"/>
+			<hardware qty="1" slot="cargo" type="Heavy Missiles"/>
+			<hardware qty="1" slot="cargo" type="Gallente Frigate"/>
+			<hardware qty="1" slot="cargo" type="Minmatar Frigate"/>
+			<hardware qty="1" slot="cargo" type="Caldari Frigate"/>
+			<hardware qty="1" slot="cargo" type="Amarr Frigate"/>
+			<hardware qty="1" slot="cargo" type="Gallente Cruiser"/>
+			<hardware qty="1" slot="cargo" type="Minmatar Cruiser"/>
+			<hardware qty="1" slot="cargo" type="Caldari Cruiser"/>
+			<hardware qty="1" slot="cargo" type="Amarr Cruiser"/>
+			<hardware qty="1" slot="cargo" type="Minmatar Industrial"/>
+			<hardware qty="1" slot="cargo" type="Shield Emission Systems"/>
+			<hardware qty="1" slot="cargo" type="Capacitor Emission Systems"/>
+			<hardware qty="1" slot="cargo" type="Sensor Linking"/>
+			<hardware qty="1" slot="cargo" type="Weapon Disruption"/>
+			<hardware qty="1" slot="cargo" type="Fuel Conservation"/>
+			<hardware qty="1" slot="cargo" type="EM Shield Compensation"/>
+			<hardware qty="1" slot="cargo" type="Missile Bombardment"/>
+			<hardware qty="1" slot="cargo" type="Missile Projection"/>
+			<hardware qty="1" slot="cargo" type="Remote Armor Repair Systems"/>
+			<hardware qty="1" slot="cargo" type="Long Distance Jamming"/>
+			<hardware qty="1" slot="cargo" type="Frequency Modulation"/>
+			<hardware qty="1" slot="cargo" type="Target Painting"/>
+			<hardware qty="1" slot="cargo" type="Target Navigation Prediction"/>
+			<hardware qty="1" slot="cargo" type="Rapid Launch"/>
+			<hardware qty="1" slot="cargo" type="Mining Upgrades"/>
+			<hardware qty="1" slot="cargo" type="Light Drone Operation"/>
+			<hardware qty="1" slot="cargo" type="Infomorph Psychology"/>
+			<hardware qty="1" slot="cargo" type="Astrometric Pinpointing"/>
+			<hardware qty="1" slot="cargo" type="Jury Rigging"/>
+			<hardware qty="1" slot="cargo" type="Shield Rigging"/>
+			<hardware qty="1" slot="cargo" type="Armor Layering"/>
+			<hardware qty="1" slot="cargo" type="Amarr Destroyer"/>
+			<hardware qty="1" slot="cargo" type="Caldari Destroyer"/>
+			<hardware qty="1" slot="cargo" type="Gallente Destroyer"/>
+			<hardware qty="1" slot="cargo" type="Minmatar Destroyer"/>
+			<hardware qty="1" slot="cargo" type="Medium Drone Operation"/>
+		</fitting>
+	</fittings>
