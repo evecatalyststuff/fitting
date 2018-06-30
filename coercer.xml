@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+	<fittings>
+		<fitting name="**Simulated Coercer">
+			<description value=""/>
+			<shipType value="Coercer"/>
+			<hardware slot="med slot 0" type="Small Shield Extender I"/>
+			<hardware slot="med slot 1" type="Small Shield Extender I"/>
+			<hardware slot="hi slot 0" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 1" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 2" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 3" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 4" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 5" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 6" type="280mm Howitzer Artillery I"/>
+			<hardware slot="low slot 1" type="Damage Control I"/>
+			<hardware slot="low slot 0" type="Counterbalanced Compact Gyrostabilizer"/>
+			<hardware slot="med slot 2" type="Limited Adaptive Invulnerability Field I"/>
+			<hardware qty="140" slot="cargo" type="Republic Fleet Fusion S"/>
+			<hardware slot="rig slot 0" type="Small Processor Overclocking Unit I"/>
+		</fitting>
+		<fitting name="*Simulated Coercer">
+			<description value=""/>
+			<shipType value="Coercer"/>
+			<hardware slot="hi slot 0" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 1" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 2" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 3" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 4" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 5" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 6" type="280mm Howitzer Artillery I"/>
+		</fitting>
+		<fitting name="*gate sniper">
+			<description value=""/>
+			<shipType value="Coercer"/>
+			<hardware slot="hi slot 0" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 1" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 2" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 3" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 4" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 5" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 6" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 7" type="280mm Howitzer Artillery I"/>
+			<hardware slot="low slot 0" type="Gyrostabilizer I"/>
+			<hardware slot="low slot 1" type="Gyrostabilizer I"/>
+			<hardware slot="low slot 2" type="Gyrostabilizer I"/>
+			<hardware qty="8" slot="cargo" type="Republic Fleet Phased Plasma S"/>
+		</fitting>
+		<fitting name="*pod sniper">
+			<description value=""/>
+			<shipType value="Coercer"/>
+			<hardware slot="hi slot 0" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 1" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 2" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 3" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 4" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 5" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 6" type="280mm Howitzer Artillery I"/>
+			<hardware qty="7" slot="cargo" type="Republic Fleet Fusion S"/>
+		</fitting>
+		<fitting name="gate sniper">
+			<description value=""/>
+			<shipType value="Coercer"/>
+			<hardware slot="hi slot 0" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 1" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 2" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 3" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 4" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 5" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 6" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 7" type="280mm Howitzer Artillery I"/>
+			<hardware slot="low slot 0" type="Gyrostabilizer I"/>
+			<hardware slot="low slot 1" type="Gyrostabilizer I"/>
+			<hardware slot="low slot 2" type="Gyrostabilizer I"/>
+		</fitting>
+		<fitting name="pod sniper">
+			<description value=""/>
+			<shipType value="Coercer"/>
+			<hardware slot="hi slot 0" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 1" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 2" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 3" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 4" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 5" type="280mm Howitzer Artillery I"/>
+			<hardware slot="hi slot 6" type="280mm Howitzer Artillery I"/>
+		</fitting>
+	</fittings>
